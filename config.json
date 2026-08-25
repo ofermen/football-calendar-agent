@@ -1,0 +1,204 @@
+{
+  "timezone": "Asia/Jerusalem",
+  "calendar_name": "Selected Football Matches",
+  "output_file": "public/football.ics",
+  "snapshot_file": "data/snapshot.json",
+  "tracking": [
+    {
+      "team": "Maccabi Haifa",
+      "mode": "include_competitions",
+      "competitions": [
+        "Israeli Premier League",
+        "Israel State Cup"
+      ],
+      "exclude": [
+        "Club Friendlies",
+        "Toto Cup",
+        "Friendlies"
+      ],
+      "default_competition": "Israeli Premier League",
+      "horizon_days": 370,
+      "source": {
+        "type": "fixtures_ics",
+        "url": "https://ics.fixtur.es/v2/m-haifa.ics"
+      }
+    },
+    {
+      "team": "Hapoel Be'er Sheva",
+      "mode": "uefa_only",
+      "competitions": [
+        "UEFA Champions League",
+        "UEFA Europa League",
+        "UEFA Conference League"
+      ],
+      "default_competition": "Israeli Premier League",
+      "horizon_days": 370,
+      "source": {
+        "type": "fixtures_ics",
+        "url": "https://ics.fixtur.es/v2/beer-sheva.ics"
+      }
+    },
+    {
+      "team": "Hapoel Tel Aviv",
+      "mode": "uefa_only",
+      "competitions": [
+        "UEFA Champions League",
+        "UEFA Europa League",
+        "UEFA Conference League"
+      ],
+      "default_competition": "Israeli Premier League",
+      "horizon_days": 370,
+      "source": {
+        "type": "fixtures_ics",
+        "url": "https://ics.fixtur.es/v2/h-tel-aviv.ics"
+      }
+    },
+    {
+      "team": "West Ham United",
+      "mode": "all_official",
+      "exclude": [
+        "Club Friendlies",
+        "Friendlies"
+      ],
+      "default_competition": "EFL Championship",
+      "horizon_days": 370,
+      "source": {
+        "type": "fixtures_ics",
+        "url": "https://ics.fixtur.es/v2/west-ham-united.ics"
+      }
+    },
+    {
+      "team": "Crystal Palace",
+      "mode": "all_official",
+      "exclude": [
+        "Club Friendlies",
+        "Friendlies"
+      ],
+      "default_competition": "Premier League",
+      "horizon_days": 370,
+      "source": {
+        "type": "fixtures_ics",
+        "url": "https://ics.fixtur.es/v2/crystal-palace.ics"
+      }
+    },
+    {
+      "team": "Liverpool",
+      "mode": "all_official",
+      "exclude": [
+        "Club Friendlies",
+        "Friendlies"
+      ],
+      "default_competition": "Premier League",
+      "horizon_days": 370,
+      "source": {
+        "type": "fixtures_ics",
+        "url": "https://ics.fixtur.es/v2/liverpool.ics"
+      }
+    },
+    {
+      "team": "FC Barcelona",
+      "mode": "all_official",
+      "exclude": [
+        "Club Friendlies",
+        "Friendlies"
+      ],
+      "default_competition": "La Liga",
+      "horizon_days": 370,
+      "source": {
+        "type": "fixtures_ics",
+        "url": "https://ics.fixtur.es/v2/fc-barcelona.ics"
+      }
+    }
+  ],
+  "broadcast": {
+    "country": "Israel",
+    "unknown_label": "טרם פורסם",
+    "sources": [
+      {
+        "channel": "Sport 1",
+        "url": "https://www.livesoccertv.com/channels/sport-1-israel/"
+      },
+      {
+        "channel": "Sport 2",
+        "url": "https://www.livesoccertv.com/channels/sport-2-israel/"
+      },
+      {
+        "channel": "Sport 3",
+        "url": "https://www.livesoccertv.com/channels/sports-3-israel/"
+      },
+      {
+        "channel": "Sport 4",
+        "url": "https://www.livesoccertv.com/channels/sports-4-israel/"
+      },
+      {
+        "channel": "5Sport",
+        "url": "https://www.livesoccertv.com/channels/sport-5-israel/"
+      },
+      {
+        "channel": "5Plus",
+        "url": "https://www.livesoccertv.com/channels/sport-plus-5-israel/"
+      }
+    ],
+    "team_aliases": {
+      "Beer Sheva [CL]": [
+        "Hapoel Be'er Sheva",
+        "Hapoel Beer Sheva",
+        "Beer Sheva"
+      ],
+      "H. Tel Aviv": [
+        "Hapoel Tel Aviv"
+      ],
+      "Atalanta [Conf]": [
+        "Atalanta"
+      ],
+      "West Ham United [LC]": [
+        "West Ham United"
+      ],
+      "M. Haifa": [
+        "Maccabi Haifa"
+      ],
+      "M. Tel Aviv": [
+        "Maccabi Tel Aviv"
+      ],
+      "H. Haifa": [
+        "Hapoel Haifa"
+      ]
+    },
+    "max_days_ahead": 14
+  },
+  "competition_feeds": [
+    {
+      "name": "UEFA Champions League",
+      "url": "https://ics.fixtur.es/v2/league/champions-league.ics"
+    },
+    {
+      "name": "UEFA Europa League",
+      "url": "https://ics.fixtur.es/v2/league/europa-league.ics"
+    },
+    {
+      "name": "UEFA Conference League",
+      "url": "https://ics.fixtur.es/v2/league/uefa-conference-league.ics"
+    },
+    {
+      "name": "Israel State Cup",
+      "url": "https://ics.fixtur.es/v2/league/israel-state-cup.ics"
+    },
+    {
+      "name": "FA Cup",
+      "url": "https://ics.fixtur.es/v2/league/fa-cup.ics"
+    },
+    {
+      "name": "League Cup",
+      "url": "https://ics.fixtur.es/v2/league/league-cup.ics"
+    },
+    {
+      "name": "Copa del Rey",
+      "url": "https://ics.fixtur.es/v2/league/copa-del-rey.ics"
+    }
+  ],
+  "season": {
+    "start": "2026-07-01",
+    "end": "2027-06-30"
+  },
+  "preview_file": "public/preview.txt"
+}

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Football Calendar Agent//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Selected Football Matches
+X-WR-TIMEZONE:Asia/Jerusalem
+BEGIN:VEVENT
+UID:uefa-conference-league|hapoel-tel-aviv|atalanta|uefa-hta-atalanta-20260827@football-calendar-agent
+DTSTAMP:20260827T170000Z
+DTSTART:20260827T170000Z
+DTEND:20260827T190000Z
+SUMMARY:⚽ Hapoel Tel Aviv – Atalanta
+DESCRIPTION:UEFA Conference League\\n📺 טרם פורסם\\nSource: https://www.uefa.com/uefaconferenceleague/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
