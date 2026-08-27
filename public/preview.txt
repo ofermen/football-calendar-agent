@@ -79,10 +79,6 @@ Total: 37
 30/05/2027 21:00 | Getafe - FC Barcelona | La Liga | 📺 טרם פורסם
 Total: 38
 
-=== Hapoel Be'er Sheva ===
-25/08/2026 19:45 | Sabah - Beer Sheva [CL] | UEFA Champions League | 📺 טרם פורסם
-Total: 1
-
 === Hapoel Tel Aviv ===
 27/08/2026 21:00 | H. Tel Aviv - Atalanta [Conf] | UEFA Conference League | 📺 Sport 1
 Total: 1
@@ -156,7 +152,6 @@ Total: 37
 Total: 25
 
 === West Ham United ===
-25/08/2026 21:45 | Southampton - West Ham United [LC] | League Cup | 📺 Sport 2
 29/08/2026 17:00 | Watford FC - West Ham United | EFL Championship | 📺 טרם פורסם
 01/09/2026 21:45 | West Ham United - Wolverhampton Wanderers | EFL Championship | 📺 טרם פורסם
 05/09/2026 17:00 | West Ham United - Derby County | EFL Championship | 📺 טרם פורסם
@@ -201,4 +196,4 @@ Total: 25
 20/04/2027 21:45 | Wolverhampton Wanderers - West Ham United | EFL Championship | 📺 טרם פורסם
 24/04/2027 17:00 | Middlesbrough - West Ham United | EFL Championship | 📺 טרם פורסם
 01/05/2027 14:30 | West Ham United - Portsmouth FC | EFL Championship | 📺 טרם פורסם
-Total: 45
+Total: 44

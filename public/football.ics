@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:uefa-champions-league|sabah|beer-sheva-[cl]|0agazklggzqmqsltwesavr5mzabas7ncdoz9qwio@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260825T164500Z
-DTSTART:20260825T164500Z
-DTEND:20260825T184500Z
-SUMMARY:⚽ Sabah – Beer Sheva [CL]
-DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:league-cup|southampton|west-ham-united-[lc]|trkpmt8qi4qyvuoydiiop2irc9fb8cucqhvabyp3@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260825T184500Z
-DTSTART:20260825T184500Z
-DTEND:20260825T204500Z
-SUMMARY:⚽ Southampton – West Ham United [LC]
-DESCRIPTION:League Cup\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:uefa-conference-league|h.-tel-aviv|atalanta-[conf]|tc7dg2hwqmjfh4qdofimwnhzpprybj4f8ooaqu50@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260827T180000Z
 DTSTART:20260827T180000Z
