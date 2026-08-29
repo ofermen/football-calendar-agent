@@ -6,30 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:uefa-conference-league|h.-tel-aviv|atalanta-[conf]|tc7dg2hwqmjfh4qdofimwnhzpprybj4f8ooaqu50@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260827T180000Z
-DTSTART:20260827T180000Z
-DTEND:20260827T200000Z
-SUMMARY:⚽ H. Tel Aviv – Atalanta [Conf]
-DESCRIPTION:UEFA Conference League\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/h-tel-aviv.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|fc-barcelona|athletic-de-bilbao|8vdsjbl7qerk33slukcoswwxejwadder6aybmxkg@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260827T190000Z
-DTSTART:20260827T190000Z
-DTEND:20260827T210000Z
-SUMMARY:⚽ FC Barcelona – Athletic de Bilbao
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|crystal-palace|manchester-city|jirjzzieddv02si1i96q0ylcxrvghprid8dd9wdg@maak-agenda.nl@football-calendar-agent
+UID:premier-league|crystal-palace|manchester-city-(1-4)|jirjzzieddv02si1i96q0ylcxrvghprid8dd9wdg@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260828T190000Z
 DTSTART:20260828T190000Z
 DTEND:20260828T210000Z
-SUMMARY:⚽ Crystal Palace – Manchester City
-DESCRIPTION:Premier League\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+SUMMARY:⚽ Crystal Palace – Manchester City (1-4)
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -87,15 +69,6 @@ DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:israeli-premier-league|m.-haifa|hapoel-petah-tikva|6ubaahcbxwhnlll5my19mvg6rybwac5xr5uoppuw@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260905T000000Z
-DTSTART:20260905T000000Z
-DTEND:20260905T020000Z
-SUMMARY:⚽ M. Haifa – Hapoel Petah Tikva
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|west-ham-united|derby-county|ctve30hvep972g15glkrhghcpufwo7e4lxtomakd@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260905T140000Z
 DTSTART:20260905T140000Z
@@ -114,12 +87,48 @@ DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:israeli-premier-league|m.-haifa|hapoel-petah-tikva|6ubaahcbxwhnlll5my19mvg6rybwac5xr5uoppuw@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260905T173000Z
+DTSTART:20260905T173000Z
+DTEND:20260905T193000Z
+SUMMARY:⚽ M. Haifa – Hapoel Petah Tikva
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:la-liga|valencia|fc-barcelona|ips3yhvm3mbe3p0ti6wtjhstc6s7eue1xqqo4hai@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260906T141500Z
 DTSTART:20260906T141500Z
 DTEND:20260906T161500Z
 SUMMARY:⚽ Valencia – FC Barcelona
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:league-cup|west-ham-united|fulham-[lc]|oyjfpg4tllhhnapjhvzdyywvirxduxyypobqhfqg@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260908T090000Z
+DTSTART:20260908T090000Z
+DTEND:20260908T110000Z
+SUMMARY:⚽ West Ham United – Fulham [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:league-cup|crystal-palace|middlesbrough-[lc]|dmrcyyrlr8y15tesosahwv8vpclfwainajnk4xki@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260908T090000Z
+DTSTART:20260908T090000Z
+DTEND:20260908T110000Z
+SUMMARY:⚽ Crystal Palace – Middlesbrough [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:league-cup|liverpool|tottenham-hotspur-[lc]|xubx4uesamlejsi43qmkm1braeqd623ebofzdtqi@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260908T090000Z
+DTSTART:20260908T090000Z
+DTEND:20260908T110000Z
+SUMMARY:⚽ Liverpool – Tottenham Hotspur [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
