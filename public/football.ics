@@ -6,39 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:premier-league|crystal-palace|manchester-city-(1-4)|jirjzzieddv02si1i96q0ylcxrvghprid8dd9wdg@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260828T190000Z
-DTSTART:20260828T190000Z
-DTEND:20260828T210000Z
-SUMMARY:⚽ Crystal Palace – Manchester City (1-4)
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|liverpool|nottingham-forest|wnma5ifkcdxkubeyhjbvwn6yoqzeuat2d1klqbmm@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260829T113000Z
-DTSTART:20260829T113000Z
-DTEND:20260829T133000Z
-SUMMARY:⚽ Liverpool – Nottingham Forest
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:efl-championship|watford-fc|west-ham-united|f87qssbw10fso08mg5oatjbkmgrso3mzm4xcn6zd@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260829T140000Z
-DTSTART:20260829T140000Z
-DTEND:20260829T160000Z
-SUMMARY:⚽ Watford FC – West Ham United
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:israeli-premier-league|m.-tel-aviv|m.-haifa|agnax0jnvau22aua2431wiewl1xird0eqokywlrd@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260831T173000Z
 DTSTART:20260831T173000Z
 DTEND:20260831T193000Z
 SUMMARY:⚽ M. Tel Aviv – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+DESCRIPTION:Israeli Premier League\\n📺 5Sport\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -83,7 +56,7 @@ DTSTAMP:20260905T140000Z
 DTSTART:20260905T140000Z
 DTEND:20260905T160000Z
 SUMMARY:⚽ Fulham – Crystal Palace
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+DESCRIPTION:Premier League\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -92,7 +65,7 @@ DTSTAMP:20260905T173000Z
 DTSTART:20260905T173000Z
 DTEND:20260905T193000Z
 SUMMARY:⚽ M. Haifa – Hapoel Petah Tikva
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+DESCRIPTION:Israeli Premier League\\n📺 Sport 4\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -105,30 +78,12 @@ DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:league-cup|west-ham-united|fulham-[lc]|oyjfpg4tllhhnapjhvzdyywvirxduxyypobqhfqg@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260908T090000Z
-DTSTART:20260908T090000Z
-DTEND:20260908T110000Z
-SUMMARY:⚽ West Ham United – Fulham [LC]
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:league-cup|crystal-palace|middlesbrough-[lc]|dmrcyyrlr8y15tesosahwv8vpclfwainajnk4xki@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260908T090000Z
-DTSTART:20260908T090000Z
-DTEND:20260908T110000Z
+DTSTAMP:20260908T184500Z
+DTSTART:20260908T184500Z
+DTEND:20260908T204500Z
 SUMMARY:⚽ Crystal Palace – Middlesbrough [LC]
 DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:league-cup|liverpool|tottenham-hotspur-[lc]|xubx4uesamlejsi43qmkm1braeqd623ebofzdtqi@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260908T090000Z
-DTSTART:20260908T090000Z
-DTEND:20260908T110000Z
-SUMMARY:⚽ Liverpool – Tottenham Hotspur [LC]
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -138,6 +93,24 @@ DTSTART:20260908T190000Z
 DTEND:20260908T210000Z
 SUMMARY:⚽ Bolton Wanderers FC – West Ham United
 DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|fc-barcelona|feyenoord-[cl]|wi6o6sidd4ubjm8ot4czgmmavbjgj976kwioe2qh@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260909T164500Z
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+SUMMARY:⚽ FC Barcelona – Feyenoord [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|liverpool|atlético-madrid-[cl]|h2mc01xz1czj7w36fc9v1phovojp0dvlxytl51mk@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260909T190000Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:⚽ Liverpool – Atlético Madrid [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -186,12 +159,48 @@ DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ic
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:league-cup|west-ham-united|fulham-[lc]|oyjfpg4tllhhnapjhvzdyywvirxduxyypobqhfqg@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260915T184500Z
+DTSTART:20260915T184500Z
+DTEND:20260915T204500Z
+SUMMARY:⚽ West Ham United – Fulham [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:la-liga|fc-barcelona|racing-de-santander|odqjvcpjb1ziorpm70bwqowzsdaasjnreadwvnjt@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260916T180000Z
 DTSTART:20260916T180000Z
 DTEND:20260916T200000Z
 SUMMARY:⚽ FC Barcelona – Racing de Santander
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|beer-sheva|dinamo-zagreb-[el]|tsn5kzkqbl54mwopsmqvs0kyxvejpstbbcuckfqi@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260916T190000Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:⚽ Beer Sheva – Dinamo Zagreb [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:league-cup|liverpool|tottenham-hotspur-[lc]|xubx4uesamlejsi43qmkm1braeqd623ebofzdtqi@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260916T190000Z
+DTSTART:20260916T190000Z
+DTEND:20260916T210000Z
+SUMMARY:⚽ Liverpool – Tottenham Hotspur [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|crystal-palace|lech-poznań-[el]|0ko2elgr9t85gjzapibp8to0rnuhemcroqkax5ld@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260917T190000Z
+DTSTART:20260917T190000Z
+DTEND:20260917T210000Z
+SUMMARY:⚽ Crystal Palace – Lech Poznań [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -285,12 +294,48 @@ DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:uefa-champions-league|galatasaray|fc-barcelona-[cl]|qvincfxxqx78139bwl44nmcfe0qwjorwc4selnu7@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261013T190000Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:⚽ Galatasaray – FC Barcelona [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|lask-linz|liverpool-[cl]|co9kbuxo3sor9kfz7zz9oamy9ery7lbxbpnesefo@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261014T164500Z
+DTSTART:20261014T164500Z
+DTEND:20261014T184500Z
+SUMMARY:⚽ LASK Linz – Liverpool [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:efl-championship|lincoln-city-fc|west-ham-united|oiudkuqdjpsmdyxvpdfg1n1kfe1mpu85k2myvokn@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261014T190000Z
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
 SUMMARY:⚽ Lincoln City FC – West Ham United
 DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|az|beer-sheva-[el]|quwehodto7dln21qtwmdwxjdtefdfo76n6sumqlg@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261015T164500Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:⚽ AZ – Beer Sheva [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|olympique-lyonnais|crystal-palace-[el]|zezxrfjtdb5tqaimjncc9aba9eqdqxoybidch1gf@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261015T164500Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:⚽ Olympique Lyonnais – Crystal Palace [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -336,6 +381,42 @@ DTSTART:20261018T180000Z
 DTEND:20261018T200000Z
 SUMMARY:⚽ Real Betis – FC Barcelona
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|liverpool|villarreal-[cl]|zo8svalidu2z9sxqrmswi3cn3gn2umlqliuw1ez2@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261020T190000Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:⚽ Liverpool – Villarreal [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|paris-saint-germain|fc-barcelona-[cl]|kydlxyousp6dghjx6hsarnax8mjyfp0j5wzwwsvw@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261020T190000Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:⚽ Paris Saint-Germain – FC Barcelona [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|union-saint-gilloise|beer-sheva-[el]|x3uk9ypkvjeiq4b4c4z5mx6u5psondhoiv7puezl@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261022T164500Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:⚽ Union Saint-Gilloise – Beer Sheva [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|beşiktaş|crystal-palace-[el]|tpc0p5brhopaxnwwfkoqag2oxowlt1niit5ppspv@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261022T190000Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:⚽ Beşiktaş – Crystal Palace [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -429,12 +510,48 @@ DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:uefa-champions-league|fc-barcelona|aston-villa-[cl]|ljkza3kcobgqigxojkzgkvyb7rxgsnzjy6up5xue@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261103T200000Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:⚽ FC Barcelona – Aston Villa [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|fenerbahçe|liverpool-[cl]|lpyr1aatgfemazxb1orfvvaxrrjlaoldinhsws0i@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261104T174500Z
+DTSTART:20261104T174500Z
+DTEND:20261104T194500Z
+SUMMARY:⚽ Fenerbahçe – Liverpool [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:efl-championship|cardiff-city|west-ham-united|peizfd1qlaazfcgfitivtnmseemrqavaprin9py2@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261104T194500Z
 DTSTART:20261104T194500Z
 DTEND:20261104T214500Z
 SUMMARY:⚽ Cardiff City – West Ham United
 DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|crystal-palace|1899-hoffenheim-[el]|xpwhwpfayesfhndw6iru2ocmfnxzlpnk4d49segh@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261105T174500Z
+DTSTART:20261105T174500Z
+DTEND:20261105T194500Z
+SUMMARY:⚽ Crystal Palace – 1899 Hoffenheim [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|beer-sheva|ofi-crete-[el]|4u9ea9xtekht7sivm02e6y4n8rugvr1gbzlw7xrc@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261105T200000Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:⚽ Beer Sheva – OFI Crete [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -516,6 +633,42 @@ DTSTART:20261124T194500Z
 DTEND:20261124T214500Z
 SUMMARY:⚽ Portsmouth FC – West Ham United
 DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|sabah|fc-barcelona-[cl]|jar6g3qkowwnn8rychs1tls7pnsmxi3vzzzrnzmo@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261125T174500Z
+DTSTART:20261125T174500Z
+DTEND:20261125T194500Z
+SUMMARY:⚽ Sabah – FC Barcelona [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|club-brugge-kv|liverpool-[cl]|oncou4q57cjs1mqoycsnw83fvuulnlqvqjvinhhb@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261125T200000Z
+DTSTART:20261125T200000Z
+DTEND:20261125T220000Z
+SUMMARY:⚽ Club Brugge KV – Liverpool [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|beşiktaş|beer-sheva-[el]|1gfqx3108tzlaw7ghfqyi4t5cucdfpgu00hs6vb6@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261126T174500Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:⚽ Beşiktaş – Beer Sheva [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|crystal-palace|real-sociedad-[el]|trqaqiekuu1kafnmljrqlr7b1a1laphpugyvo8wj@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261126T200000Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:⚽ Crystal Palace – Real Sociedad [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -642,6 +795,42 @@ DTSTART:20261208T200000Z
 DTEND:20261208T220000Z
 SUMMARY:⚽ West Ham United – Middlesbrough
 DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|fc-barcelona|manchester-city-[cl]|2nncphgg2objzd8xjym06garthwhc9nrasiwqfxs@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261208T200000Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:⚽ FC Barcelona – Manchester City [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|liverpool|fc-porto-[cl]|0vhzkbgcvmqn0s00e4sggw40g5vibuwbsod9b42v@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261209T200000Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:⚽ Liverpool – FC Porto [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|beer-sheva|juventus-[el]|youfczo5bvb5feghdfsavqrnqv7d0e5unoembs25@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261210T174500Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:⚽ Beer Sheva – Juventus [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|jagiellonia-białystok|crystal-palace-[el]|nltkvc3tdmgp6k8qkiuntishrtbtegmjbwfwpc1x@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261210T174500Z
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+SUMMARY:⚽ Jagiellonia Białystok – Crystal Palace [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -915,6 +1104,42 @@ DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:uefa-champions-league|inter|liverpool-[cl]|6nj9wvzyllapsdo66pdxafd0opzlsgrp2lokaxte@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270119T200000Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:⚽ Inter – Liverpool [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|sporting-portugal|fc-barcelona-[cl]|x6vfiufmbyzdinyciavamcqv3sj8mhlzkmj7dftb@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270120T200000Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:⚽ Sporting Portugal – FC Barcelona [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|beer-sheva|celta-de-vigo-[el]|fiy2mc7uznc6kpgjmxf8bqrmmhcwasv08nmlb1xt@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270121T200000Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:⚽ Beer Sheva – Celta de Vigo [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|crystal-palace|sparta-praag-[el]|d7qglbumvvjmuiinyzthox4fitkzg0rzkfucn5i7@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270121T200000Z
+DTSTART:20270121T200000Z
+DTEND:20270121T220000Z
+SUMMARY:⚽ Crystal Palace – Sparta Praag [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:israeli-premier-league|m.-haifa|maccabi-petah-tikva|ne966jx0bhqewguly83yisoldrcxlb5j2aupw4ic@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20270123T000000Z
 DTSTART:20270123T000000Z
@@ -966,6 +1191,42 @@ DTSTART:20270127T194500Z
 DTEND:20270127T214500Z
 SUMMARY:⚽ West Ham United – Cardiff City
 DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|liverpool|lens-[cl]|ok70vv3il043tbyad7ejhg7au3ty8kw9mai24f0f@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270127T200000Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:⚽ Liverpool – Lens [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-champions-league|fc-barcelona|como-[cl]|v1exo2ruaid9xkioewsfqzznvlexoz0kvtkrhiuh@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270127T200000Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:⚽ FC Barcelona – Como [CL]
+DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|afc-bournemouth|beer-sheva-[el]|rgnzutnif5ivgksrgo3z4omzgrlrryszyzwuvybm@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270128T200000Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:⚽ AFC Bournemouth – Beer Sheva [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uefa-europa-league|rb-salzburg|crystal-palace-[el]|kge2q9tqu9whu9wr9rdg7r40vpqtyhg37chjdx27@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270128T200000Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:⚽ RB Salzburg – Crystal Palace [EL]
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
