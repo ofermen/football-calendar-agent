@@ -47,12 +47,12 @@
 Total: 45
 
 === FC Barcelona ===
-31/08/2026 22:30 | FC Barcelona - Rayo Vallecano | La Liga | 📺 טרם פורסם
+31/08/2026 22:30 | FC Barcelona - Rayo Vallecano (5-2) | La Liga | 📺 טרם פורסם
 06/09/2026 17:15 | Valencia - FC Barcelona | La Liga | 📺 טרם פורסם
 09/09/2026 19:45 | FC Barcelona - Feyenoord [CL] | UEFA Champions League | 📺 טרם פורסם
-13/09/2026 21:00 | Levante - FC Barcelona | La Liga | 📺 טרם פורסם
-16/09/2026 21:00 | FC Barcelona - Racing de Santander | La Liga | 📺 טרם פורסם
-20/09/2026 21:00 | Sevilla FC - FC Barcelona | La Liga | 📺 טרם פורסם
+13/09/2026 17:15 | Levante - FC Barcelona | La Liga | 📺 טרם פורסם
+16/09/2026 22:30 | FC Barcelona - Racing de Santander | La Liga | 📺 טרם פורסם
+19/09/2026 22:00 | Sevilla FC - FC Barcelona | La Liga | 📺 טרם פורסם
 11/10/2026 21:00 | FC Barcelona - Getafe | La Liga | 📺 טרם פורסם
 13/10/2026 22:00 | Galatasaray - FC Barcelona [CL] | UEFA Champions League | 📺 טרם פורסם
 18/10/2026 21:00 | Real Betis - FC Barcelona | La Liga | 📺 טרם פורסם
@@ -109,7 +109,7 @@ Total: 8
 04/09/2026 22:00 | Ipswich Town - Liverpool | Premier League | 📺 טרם פורסם
 09/09/2026 22:00 | Liverpool - Atlético Madrid [CL] | UEFA Champions League | 📺 טרם פורסם
 12/09/2026 17:00 | Liverpool - Fulham | Premier League | 📺 טרם פורסם
-16/09/2026 22:00 | Liverpool - Tottenham Hotspur [LC] | League Cup | 📺 טרם פורסם
+16/09/2026 22:00 | Liverpool - Tottenham Hotspur [LC] | Premier League | 📺 טרם פורסם
 20/09/2026 16:00 | AFC Bournemouth - Liverpool | Premier League | 📺 טרם פורסם
 11/10/2026 18:30 | Liverpool - Manchester City | Premier League | 📺 טרם פורסם
 14/10/2026 19:45 | LASK Linz - Liverpool [CL] | UEFA Champions League | 📺 טרם פורסם
@@ -154,7 +154,7 @@ Total: 8
 Total: 45
 
 === Maccabi Haifa ===
-31/08/2026 20:30 | M. Tel Aviv - M. Haifa | Israeli Premier League | 📺 5Sport
+31/08/2026 20:30 | M. Tel Aviv - M. Haifa (2-2) | Israeli Premier League | 📺 טרם פורסם
 05/09/2026 20:30 | M. Haifa - Hapoel Petah Tikva | Israeli Premier League | 📺 Sport 4
 14/09/2026 03:00 | Shmona - M. Haifa | Israeli Premier League | 📺 טרם פורסם
 19/09/2026 03:00 | M. Haifa - Ironi Tiberias | Israeli Premier League | 📺 טרם פורסם

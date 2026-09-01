@@ -6,20 +6,20 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:israeli-premier-league|m.-tel-aviv|m.-haifa|agnax0jnvau22aua2431wiewl1xird0eqokywlrd@maak-agenda.nl@football-calendar-agent
+UID:israeli-premier-league|m.-tel-aviv|m.-haifa-(2-2)|agnax0jnvau22aua2431wiewl1xird0eqokywlrd@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260831T173000Z
 DTSTART:20260831T173000Z
 DTEND:20260831T193000Z
-SUMMARY:⚽ M. Tel Aviv – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 5Sport\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+SUMMARY:⚽ M. Tel Aviv – M. Haifa (2-2)
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:la-liga|fc-barcelona|rayo-vallecano|aaoips8nlly5fpj0noz9ljvyuxrmnmeespedv9vh@maak-agenda.nl@football-calendar-agent
+UID:la-liga|fc-barcelona|rayo-vallecano-(5-2)|aaoips8nlly5fpj0noz9ljvyuxrmnmeespedv9vh@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260831T193000Z
 DTSTART:20260831T193000Z
 DTEND:20260831T213000Z
-SUMMARY:⚽ FC Barcelona – Rayo Vallecano
+SUMMARY:⚽ FC Barcelona – Rayo Vallecano (5-2)
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
@@ -142,9 +142,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga|levante|fc-barcelona|cudzmi1cm6lepow1ksyybq9v7rasfii73gr80lxo@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260913T180000Z
-DTSTART:20260913T180000Z
-DTEND:20260913T200000Z
+DTSTAMP:20260913T141500Z
+DTSTART:20260913T141500Z
+DTEND:20260913T161500Z
 SUMMARY:⚽ Levante – FC Barcelona
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
@@ -168,15 +168,6 @@ DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:la-liga|fc-barcelona|racing-de-santander|odqjvcpjb1ziorpm70bwqowzsdaasjnreadwvnjt@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260916T180000Z
-DTSTART:20260916T180000Z
-DTEND:20260916T200000Z
-SUMMARY:⚽ FC Barcelona – Racing de Santander
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:uefa-europa-league|beer-sheva|dinamo-zagreb-[el]|tsn5kzkqbl54mwopsmqvs0kyxvejpstbbcuckfqi@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260916T190000Z
 DTSTART:20260916T190000Z
@@ -186,12 +177,21 @@ DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:league-cup|liverpool|tottenham-hotspur-[lc]|xubx4uesamlejsi43qmkm1braeqd623ebofzdtqi@maak-agenda.nl@football-calendar-agent
+UID:premier-league|liverpool|tottenham-hotspur-[lc]|xubx4uesamlejsi43qmkm1braeqd623ebofzdtqi@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260916T190000Z
 DTSTART:20260916T190000Z
 DTEND:20260916T210000Z
 SUMMARY:⚽ Liverpool – Tottenham Hotspur [LC]
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:la-liga|fc-barcelona|racing-de-santander|odqjvcpjb1ziorpm70bwqowzsdaasjnreadwvnjt@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260916T193000Z
+DTSTART:20260916T193000Z
+DTEND:20260916T213000Z
+SUMMARY:⚽ FC Barcelona – Racing de Santander
+DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -231,21 +231,21 @@ DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:la-liga|sevilla-fc|fc-barcelona|8z4zccp2wz0hrofjt2732guewsiljpflwlmgtnyy@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260919T190000Z
+DTSTART:20260919T190000Z
+DTEND:20260919T210000Z
+SUMMARY:⚽ Sevilla FC – FC Barcelona
+DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:premier-league|afc-bournemouth|liverpool|bmxauara1zd950lih4rvxyulfxiprul7ze2bbpei@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260920T130000Z
 DTSTART:20260920T130000Z
 DTEND:20260920T150000Z
 SUMMARY:⚽ AFC Bournemouth – Liverpool
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|sevilla-fc|fc-barcelona|8z4zccp2wz0hrofjt2732guewsiljpflwlmgtnyy@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260920T180000Z
-DTSTART:20260920T180000Z
-DTEND:20260920T200000Z
-SUMMARY:⚽ Sevilla FC – FC Barcelona
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
