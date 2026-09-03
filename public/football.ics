@@ -6,33 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:israeli-premier-league|m.-tel-aviv|m.-haifa-(2-2)|agnax0jnvau22aua2431wiewl1xird0eqokywlrd@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260831T173000Z
-DTSTART:20260831T173000Z
-DTEND:20260831T193000Z
-SUMMARY:⚽ M. Tel Aviv – M. Haifa (2-2)
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|fc-barcelona|rayo-vallecano-(5-2)|aaoips8nlly5fpj0noz9ljvyuxrmnmeespedv9vh@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260831T193000Z
-DTSTART:20260831T193000Z
-DTEND:20260831T213000Z
-SUMMARY:⚽ FC Barcelona – Rayo Vallecano (5-2)
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:efl-championship|west-ham-united|wolverhampton-wanderers|jklhqasytl542umnv1e7c1rdvuepgfy67otguctz@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260901T184500Z
-DTSTART:20260901T184500Z
-DTEND:20260901T204500Z
-SUMMARY:⚽ West Ham United – Wolverhampton Wanderers
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:premier-league|ipswich-town|liverpool|jndmf6sv4twl7cihquphtfenoawp0peluwhvy7mx@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260904T190000Z
 DTSTART:20260904T190000Z
@@ -83,7 +56,7 @@ DTSTAMP:20260908T184500Z
 DTSTART:20260908T184500Z
 DTEND:20260908T204500Z
 SUMMARY:⚽ Crystal Palace – Middlesbrough [LC]
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+DESCRIPTION:League Cup\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -92,7 +65,7 @@ DTSTAMP:20260908T190000Z
 DTSTART:20260908T190000Z
 DTEND:20260908T210000Z
 SUMMARY:⚽ Bolton Wanderers FC – West Ham United
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+DESCRIPTION:EFL Championship\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -151,9 +124,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:israeli-premier-league|shmona|m.-haifa|gp51cvbjhgllr5hl6bv0qkbqv4aese52rdk0tr2x@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260914T000000Z
-DTSTART:20260914T000000Z
-DTEND:20260914T020000Z
+DTSTAMP:20260914T170000Z
+DTSTART:20260914T170000Z
+DTEND:20260914T190000Z
 SUMMARY:⚽ Shmona – M. Haifa
 DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
@@ -168,21 +141,21 @@ DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:league-cup|liverpool|tottenham-hotspur-[lc]|xubx4uesamlejsi43qmkm1braeqd623ebofzdtqi@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260915T190000Z
+DTSTART:20260915T190000Z
+DTEND:20260915T210000Z
+SUMMARY:⚽ Liverpool – Tottenham Hotspur [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:uefa-europa-league|beer-sheva|dinamo-zagreb-[el]|tsn5kzkqbl54mwopsmqvs0kyxvejpstbbcuckfqi@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260916T190000Z
 DTSTART:20260916T190000Z
 DTEND:20260916T210000Z
 SUMMARY:⚽ Beer Sheva – Dinamo Zagreb [EL]
 DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|liverpool|tottenham-hotspur-[lc]|xubx4uesamlejsi43qmkm1braeqd623ebofzdtqi@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260916T190000Z
-DTSTART:20260916T190000Z
-DTEND:20260916T210000Z
-SUMMARY:⚽ Liverpool – Tottenham Hotspur [LC]
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -204,15 +177,6 @@ DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:israeli-premier-league|m.-haifa|ironi-tiberias|8otka0jvqourumwcg4xieudgentunql6jxul2qqz@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260919T000000Z
-DTSTART:20260919T000000Z
-DTEND:20260919T020000Z
-SUMMARY:⚽ M. Haifa – Ironi Tiberias
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|millwall-fc|west-ham-united|zvga6lg3g4cvcijkfrtykujs08witit8zsuxipfz@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260919T113000Z
 DTSTART:20260919T113000Z
@@ -222,12 +186,12 @@ DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixt
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league|leeds-united|crystal-palace|qnmlwstdwhtytlfnp56wiothnewkkd7zpdjpdwxg@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260919T140000Z
-DTSTART:20260919T140000Z
-DTEND:20260919T160000Z
-SUMMARY:⚽ Leeds United – Crystal Palace
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+UID:israeli-premier-league|m.-haifa|ironi-tiberias|8otka0jvqourumwcg4xieudgentunql6jxul2qqz@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260919T170000Z
+DTSTART:20260919T170000Z
+DTEND:20260919T190000Z
+SUMMARY:⚽ M. Haifa – Ironi Tiberias
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -237,6 +201,15 @@ DTSTART:20260919T190000Z
 DTEND:20260919T210000Z
 SUMMARY:⚽ Sevilla FC – FC Barcelona
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league|leeds-united|crystal-palace|qnmlwstdwhtytlfnp56wiothnewkkd7zpdjpdwxg@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20260920T130000Z
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:⚽ Leeds United – Crystal Palace
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -255,15 +228,6 @@ DTSTART:20261009T190000Z
 DTEND:20261009T210000Z
 SUMMARY:⚽ West Ham United – Queens Park Rangers
 DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:israeli-premier-league|hapoel-katamon|m.-haifa|ancpsz6p80r2ihsb1o19dqy09nkqmqax2jwkhi7e@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261010T000000Z
-DTSTART:20261010T000000Z
-DTEND:20261010T020000Z
-SUMMARY:⚽ Hapoel Katamon – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -291,6 +255,15 @@ DTSTART:20261011T180000Z
 DTEND:20261011T200000Z
 SUMMARY:⚽ FC Barcelona – Getafe
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:israeli-premier-league|hapoel-katamon|m.-haifa|ancpsz6p80r2ihsb1o19dqy09nkqmqax2jwkhi7e@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261012T173000Z
+DTSTART:20261012T173000Z
+DTEND:20261012T193000Z
+SUMMARY:⚽ Hapoel Katamon – M. Haifa
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -339,15 +312,6 @@ DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:israeli-premier-league|maccabi-petah-tikva|m.-haifa|nylefnbepir2kdigimjxxz5nbeqnmflmcootlelv@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261017T000000Z
-DTSTART:20261017T000000Z
-DTEND:20261017T020000Z
-SUMMARY:⚽ Maccabi Petah Tikva – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|swansea-city|west-ham-united|kqnizgh72mexuuqszr333foptogatsnmfv8xcov6@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261017T140000Z
 DTSTART:20261017T140000Z
@@ -363,6 +327,15 @@ DTSTART:20261017T140000Z
 DTEND:20261017T160000Z
 SUMMARY:⚽ Brentford FC – Liverpool
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:israeli-premier-league|maccabi-petah-tikva|m.-haifa|nylefnbepir2kdigimjxxz5nbeqnmflmcootlelv@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261017T163000Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:⚽ Maccabi Petah Tikva – M. Haifa
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -420,30 +393,12 @@ DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:israeli-premier-league|m.-haifa|beer-sheva|anqrsf9ho80quqk6dlod506darwltwlwpbb8h5gm@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261024T000000Z
-DTSTART:20261024T000000Z
-DTEND:20261024T020000Z
-SUMMARY:⚽ M. Haifa – Beer Sheva
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|west-ham-united|southampton|lllsvmnqkkhp2ln7f281cakupnkhgbzt92vsh3tm@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261024T140000Z
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
 SUMMARY:⚽ West Ham United – Southampton
 DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|liverpool|brighton-&-hove-albion-fc|uwexfiozda9ydzvt7fztojathymlxuxygknn4ima@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261024T140000Z
-DTSTART:20261024T140000Z
-DTEND:20261024T160000Z
-SUMMARY:⚽ Liverpool – Brighton & Hove Albion FC
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -456,6 +411,15 @@ DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:premier-league|liverpool|brighton-&-hove-albion-fc|uwexfiozda9ydzvt7fztojathymlxuxygknn4ima@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261025T140000Z
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:⚽ Liverpool – Brighton & Hove Albion FC
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:la-liga|fc-barcelona|real-madrid|hxhyt6knyew2muk9vpwymyu7b6tgngsqt5qqcxya@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261025T180000Z
 DTSTART:20261025T180000Z
@@ -465,11 +429,11 @@ DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:israeli-premier-league|h.-tel-aviv|m.-haifa|pkzyicvyfzwv5l63tz3qxse0xoyq4fvkawlbwtu7@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261031T000000Z
-DTSTART:20261031T000000Z
-DTEND:20261031T020000Z
-SUMMARY:⚽ H. Tel Aviv – M. Haifa
+UID:israeli-premier-league|m.-haifa|beer-sheva|anqrsf9ho80quqk6dlod506darwltwlwpbb8h5gm@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261026T183000Z
+DTSTART:20261026T183000Z
+DTEND:20261026T203000Z
+SUMMARY:⚽ M. Haifa – Beer Sheva
 DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
@@ -507,6 +471,15 @@ DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
 SUMMARY:⚽ FC Barcelona – Deportivo Alavés
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:israeli-premier-league|h.-tel-aviv|m.-haifa|pkzyicvyfzwv5l63tz3qxse0xoyq4fvkawlbwtu7@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261102T183000Z
+DTSTART:20261102T183000Z
+DTEND:20261102T203000Z
+SUMMARY:⚽ H. Tel Aviv – M. Haifa
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -555,15 +528,6 @@ DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:israeli-premier-league|m.-haifa|netanya|cp4lwgeilqnq0ptyjg9r1uophfa7ooz14b8ztldm@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261107T000000Z
-DTSTART:20261107T000000Z
-DTEND:20261107T020000Z
-SUMMARY:⚽ M. Haifa – Netanya
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|blackburn-rovers|west-ham-united|j0q2btt4woblmjasmrga5gbkgswiybjoc3qjd3w6@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261107T150000Z
 DTSTART:20261107T150000Z
@@ -579,6 +543,15 @@ DTSTART:20261107T150000Z
 DTEND:20261107T170000Z
 SUMMARY:⚽ Crystal Palace – Liverpool
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:israeli-premier-league|m.-haifa|netanya|cp4lwgeilqnq0ptyjg9r1uophfa7ooz14b8ztldm@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261107T153000Z
+DTSTART:20261107T153000Z
+DTEND:20261107T173000Z
+SUMMARY:⚽ M. Haifa – Netanya
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -673,9 +646,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:israeli-premier-league|bnei-sakhnin|m.-haifa|rwdemacl1twfxxvvz8bgxsusz5gez9ofnqi7o2hx@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261128T000000Z
-DTSTART:20261128T000000Z
-DTEND:20261128T020000Z
+DTSTAMP:20261128T130000Z
+DTSTART:20261128T130000Z
+DTEND:20261128T150000Z
 SUMMARY:⚽ Bnei Sakhnin – M. Haifa
 DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
@@ -718,9 +691,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:israeli-premier-league|m.-haifa|jerusalem|gsfezzgaizt5htr1yav1ypbjgkvdestaermqr8bd@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261201T000000Z
-DTSTART:20261201T000000Z
-DTEND:20261201T020000Z
+DTSTAMP:20261202T183000Z
+DTSTART:20261202T183000Z
+DTEND:20261202T203000Z
 SUMMARY:⚽ M. Haifa – Jerusalem
 DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
@@ -753,15 +726,6 @@ DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixt
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:israeli-premier-league|h.-haifa|m.-haifa|pq79wmbjbcybt0pheetmeck6wynvkmtm1t7p9alw@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261205T000000Z
-DTSTART:20261205T000000Z
-DTEND:20261205T020000Z
-SUMMARY:⚽ H. Haifa – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:premier-league|aston-villa|crystal-palace|vrrambtrmidckdaisd7yjgkushpfeuva4cdqtgvd@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261205T150000Z
 DTSTART:20261205T150000Z
@@ -777,6 +741,15 @@ DTSTART:20261205T150000Z
 DTEND:20261205T170000Z
 SUMMARY:⚽ Chelsea – Liverpool
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:israeli-premier-league|h.-haifa|m.-haifa|pq79wmbjbcybt0pheetmeck6wynvkmtm1t7p9alw@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261205T173000Z
+DTSTART:20261205T173000Z
+DTEND:20261205T193000Z
+SUMMARY:⚽ H. Haifa – M. Haifa
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -834,15 +807,6 @@ DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:israeli-premier-league|hapoel-ramat-gan|m.-haifa|zlywvv9ouwq4iykzb9d0a3mbwhr7hee4vpaegbub@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261212T000000Z
-DTSTART:20261212T000000Z
-DTEND:20261212T020000Z
-SUMMARY:⚽ Hapoel Ramat Gan – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|west-ham-united|bristol-city-fc|txnkz9izfks26ayuvprz6nu2tmucu0xdhnx2ycjw@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261212T150000Z
 DTSTART:20261212T150000Z
@@ -870,21 +834,21 @@ DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:israeli-premier-league|hapoel-ramat-gan|m.-haifa|zlywvv9ouwq4iykzb9d0a3mbwhr7hee4vpaegbub@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261212T153000Z
+DTSTART:20261212T153000Z
+DTEND:20261212T173000Z
+SUMMARY:⚽ Hapoel Ramat Gan – M. Haifa
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:la-liga|malaga|fc-barcelona|eeamugxhpfymtsemwrrn72x6tqj2z8gjwfi3tkzm@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261213T200000Z
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
 SUMMARY:⚽ Malaga – FC Barcelona
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:israeli-premier-league|m.-haifa|m.-tel-aviv|hjzhrj4qsiomzfn0yc3hevma9xxm9vntqwalxnlb@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261219T000000Z
-DTSTART:20261219T000000Z
-DTEND:20261219T020000Z
-SUMMARY:⚽ M. Haifa – M. Tel Aviv
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -921,6 +885,15 @@ DTSTART:20261220T200000Z
 DTEND:20261220T220000Z
 SUMMARY:⚽ FC Barcelona – Real Sociedad
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:israeli-premier-league|m.-haifa|m.-tel-aviv|hjzhrj4qsiomzfn0yc3hevma9xxm9vntqwalxnlb@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261221T183000Z
+DTSTART:20261221T183000Z
+DTEND:20261221T203000Z
+SUMMARY:⚽ M. Haifa – M. Tel Aviv
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
