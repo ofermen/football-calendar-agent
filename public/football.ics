@@ -6,47 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:premier-league|ipswich-town|liverpool|jndmf6sv4twl7cihquphtfenoawp0peluwhvy7mx@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260904T190000Z
-DTSTART:20260904T190000Z
-DTEND:20260904T210000Z
-SUMMARY:⚽ Ipswich Town – Liverpool
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:efl-championship|west-ham-united|derby-county|ctve30hvep972g15glkrhghcpufwo7e4lxtomakd@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260905T140000Z
-DTSTART:20260905T140000Z
-DTEND:20260905T160000Z
-SUMMARY:⚽ West Ham United – Derby County
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|fulham|crystal-palace|qxlfrhkgkqikgmzh4tzloficpqk38ykejv72txwq@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260905T140000Z
-DTSTART:20260905T140000Z
-DTEND:20260905T160000Z
-SUMMARY:⚽ Fulham – Crystal Palace
-DESCRIPTION:Premier League\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:israeli-premier-league|m.-haifa|hapoel-petah-tikva|6ubaahcbxwhnlll5my19mvg6rybwac5xr5uoppuw@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260905T173000Z
-DTSTART:20260905T173000Z
-DTEND:20260905T193000Z
-SUMMARY:⚽ M. Haifa – Hapoel Petah Tikva
-DESCRIPTION:Israeli Premier League\\n📺 Sport 4\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|valencia|fc-barcelona|ips3yhvm3mbe3p0ti6wtjhstc6s7eue1xqqo4hai@maak-agenda.nl@football-calendar-agent
+UID:la-liga|valencia|fc-barcelona-(0-5)|ips3yhvm3mbe3p0ti6wtjhstc6s7eue1xqqo4hai@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260906T141500Z
 DTSTART:20260906T141500Z
 DTEND:20260906T161500Z
-SUMMARY:⚽ Valencia – FC Barcelona
+SUMMARY:⚽ Valencia – FC Barcelona (0-5)
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
@@ -519,11 +483,11 @@ DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:uefa-europa-league|beer-sheva|ofi-crete-[el]|4u9ea9xtekht7sivm02e6y4n8rugvr1gbzlw7xrc@maak-agenda.nl@football-calendar-agent
+UID:uefa-europa-league|beer-sheva|ofi-[el]|4u9ea9xtekht7sivm02e6y4n8rugvr1gbzlw7xrc@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261105T200000Z
 DTSTART:20261105T200000Z
 DTEND:20261105T220000Z
-SUMMARY:⚽ Beer Sheva – OFI Crete [EL]
+SUMMARY:⚽ Beer Sheva – OFI [EL]
 DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
 STATUS:CONFIRMED
 END:VEVENT
