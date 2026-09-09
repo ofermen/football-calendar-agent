@@ -6,30 +6,21 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:la-liga|valencia|fc-barcelona-(0-5)|ips3yhvm3mbe3p0ti6wtjhstc6s7eue1xqqo4hai@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260906T141500Z
-DTSTART:20260906T141500Z
-DTEND:20260906T161500Z
-SUMMARY:⚽ Valencia – FC Barcelona (0-5)
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:league-cup|crystal-palace|middlesbrough-[lc]|dmrcyyrlr8y15tesosahwv8vpclfwainajnk4xki@maak-agenda.nl@football-calendar-agent
+UID:league-cup|crystal-palace|middlesbrough-[lc]-(3-0)|dmrcyyrlr8y15tesosahwv8vpclfwainajnk4xki@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260908T184500Z
 DTSTART:20260908T184500Z
 DTEND:20260908T204500Z
-SUMMARY:⚽ Crystal Palace – Middlesbrough [LC]
-DESCRIPTION:League Cup\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+SUMMARY:⚽ Crystal Palace – Middlesbrough [LC] (3-0)
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:efl-championship|bolton-wanderers-fc|west-ham-united|rs2ror5i8tb6jqyjsmc2vzptdyil1ip7kbzowt1m@maak-agenda.nl@football-calendar-agent
+UID:efl-championship|bolton-wanderers-fc|west-ham-united-(2-3)|rs2ror5i8tb6jqyjsmc2vzptdyil1ip7kbzowt1m@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260908T190000Z
 DTSTART:20260908T190000Z
 DTEND:20260908T210000Z
-SUMMARY:⚽ Bolton Wanderers FC – West Ham United
-DESCRIPTION:EFL Championship\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+SUMMARY:⚽ Bolton Wanderers FC – West Ham United (2-3)
+DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
