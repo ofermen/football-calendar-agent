@@ -6,42 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:league-cup|crystal-palace|middlesbrough-[lc]-(3-0)|dmrcyyrlr8y15tesosahwv8vpclfwainajnk4xki@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260908T184500Z
-DTSTART:20260908T184500Z
-DTEND:20260908T204500Z
-SUMMARY:⚽ Crystal Palace – Middlesbrough [LC] (3-0)
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:efl-championship|bolton-wanderers-fc|west-ham-united-(2-3)|rs2ror5i8tb6jqyjsmc2vzptdyil1ip7kbzowt1m@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260908T190000Z
-DTSTART:20260908T190000Z
-DTEND:20260908T210000Z
-SUMMARY:⚽ Bolton Wanderers FC – West Ham United (2-3)
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-champions-league|fc-barcelona|feyenoord-[cl]|wi6o6sidd4ubjm8ot4czgmmavbjgj976kwioe2qh@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260909T164500Z
-DTSTART:20260909T164500Z
-DTEND:20260909T184500Z
-SUMMARY:⚽ FC Barcelona – Feyenoord [CL]
-DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-champions-league|liverpool|atlético-madrid-[cl]|h2mc01xz1czj7w36fc9v1phovojp0dvlxytl51mk@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260909T190000Z
-DTSTART:20260909T190000Z
-DTEND:20260909T210000Z
-SUMMARY:⚽ Liverpool – Atlético Madrid [CL]
-DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|west-ham-united|wrexham-afc|r9becne1sikrotimpq9wrczimih09xnuag12h6bq@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260911T190000Z
 DTSTART:20260911T190000Z
@@ -92,7 +56,7 @@ DTSTAMP:20260915T184500Z
 DTSTART:20260915T184500Z
 DTEND:20260915T204500Z
 SUMMARY:⚽ West Ham United – Fulham [LC]
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+DESCRIPTION:League Cup\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -101,7 +65,7 @@ DTSTAMP:20260915T190000Z
 DTSTART:20260915T190000Z
 DTEND:20260915T210000Z
 SUMMARY:⚽ Liverpool – Tottenham Hotspur [LC]
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+DESCRIPTION:League Cup\\n📺 Sport 4\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -110,7 +74,7 @@ DTSTAMP:20260916T190000Z
 DTSTART:20260916T190000Z
 DTEND:20260916T210000Z
 SUMMARY:⚽ Beer Sheva – Dinamo Zagreb [EL]
-DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
+DESCRIPTION:UEFA Europa League\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -186,6 +150,15 @@ DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixt
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:la-liga|fc-barcelona|getafe|dqb5ecgi1tnrg1soulxanff52zkjjvn0puvkdhxy@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261010T163000Z
+DTSTART:20261010T163000Z
+DTEND:20261010T183000Z
+SUMMARY:⚽ FC Barcelona – Getafe
+DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:premier-league|crystal-palace|nottingham-forest|wkdef4yk4kjcgnpgbqdnzjmnzrfip5lw5tq9vdfo@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261011T130000Z
 DTSTART:20261011T130000Z
@@ -201,15 +174,6 @@ DTSTART:20261011T153000Z
 DTEND:20261011T173000Z
 SUMMARY:⚽ Liverpool – Manchester City
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|fc-barcelona|getafe|dqb5ecgi1tnrg1soulxanff52zkjjvn0puvkdhxy@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261011T180000Z
-DTSTART:20261011T180000Z
-DTEND:20261011T200000Z
-SUMMARY:⚽ FC Barcelona – Getafe
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
