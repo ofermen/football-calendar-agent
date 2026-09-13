@@ -6,20 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:efl-championship|west-ham-united|wrexham-afc|r9becne1sikrotimpq9wrczimih09xnuag12h6bq@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260911T190000Z
-DTSTART:20260911T190000Z
-DTEND:20260911T210000Z
-SUMMARY:⚽ West Ham United – Wrexham AFC
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|crystal-palace|ipswich-town|6a8282rm7t6to8ljqtcuch3ro5h5iz4ergdvjgrb@maak-agenda.nl@football-calendar-agent
+UID:premier-league|crystal-palace|ipswich-town-(2-3)|6a8282rm7t6to8ljqtcuch3ro5h5iz4ergdvjgrb@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260912T140000Z
 DTSTART:20260912T140000Z
 DTEND:20260912T160000Z
-SUMMARY:⚽ Crystal Palace – Ipswich Town
+SUMMARY:⚽ Crystal Palace – Ipswich Town (2-3)
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
@@ -47,7 +38,7 @@ DTSTAMP:20260914T170000Z
 DTSTART:20260914T170000Z
 DTEND:20260914T190000Z
 SUMMARY:⚽ Shmona – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+DESCRIPTION:Israeli Premier League\\n📺 Sport 4\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -825,21 +816,21 @@ DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixt
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league|crystal-palace|arsenal|ztzlslucajhea7x4bedrwm1e74jfhdrxbgbgacvg@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261226T150000Z
-DTSTART:20261226T150000Z
-DTEND:20261226T170000Z
-SUMMARY:⚽ Crystal Palace – Arsenal
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+UID:premier-league|hull-city|liverpool|mwwdoccdtqmtto96gwx0okhy8gqlt6jwwmnjuo4c@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261226T173000Z
+DTSTART:20261226T173000Z
+DTEND:20261226T193000Z
+SUMMARY:⚽ Hull City – Liverpool
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league|hull-city|liverpool|mwwdoccdtqmtto96gwx0okhy8gqlt6jwwmnjuo4c@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261226T150000Z
-DTSTART:20261226T150000Z
-DTEND:20261226T170000Z
-SUMMARY:⚽ Hull City – Liverpool
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+UID:premier-league|crystal-palace|arsenal|ztzlslucajhea7x4bedrwm1e74jfhdrxbgbgacvg@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261227T190000Z
+DTSTART:20261227T190000Z
+DTEND:20261227T210000Z
+SUMMARY:⚽ Crystal Palace – Arsenal
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -862,18 +853,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:premier-league|crystal-palace|afc-bournemouth|qlsja5m09uhrwh8mp0riiaejpobhgbgmmfqniutk@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261230T200000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
+DTSTAMP:20261230T193000Z
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
 SUMMARY:⚽ Crystal Palace – AFC Bournemouth
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:premier-league|aston-villa|liverpool|k5pf6w5ef4qbwnhiu2doxxibo1pam2hn2qoqnh09@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261230T200000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
+DTSTAMP:20261230T201500Z
+DTSTART:20261230T201500Z
+DTEND:20261230T221500Z
 SUMMARY:⚽ Aston Villa – Liverpool
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
@@ -924,21 +915,21 @@ DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league|crystal-palace|chelsea|mucmbfcqm6r1rdrbflxez5pzkltp3vtvlawqutlk@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270106T200000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
-SUMMARY:⚽ Crystal Palace – Chelsea
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+UID:premier-league|sunderland|liverpool|mpnoqdbdmhctaops2bhg8gkpwipnl26f7plkhnzj@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270105T201500Z
+DTSTART:20270105T201500Z
+DTEND:20270105T221500Z
+SUMMARY:⚽ Sunderland – Liverpool
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league|sunderland|liverpool|mpnoqdbdmhctaops2bhg8gkpwipnl26f7plkhnzj@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270106T200000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
-SUMMARY:⚽ Sunderland – Liverpool
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+UID:premier-league|crystal-palace|chelsea|mucmbfcqm6r1rdrbflxez5pzkltp3vtvlawqutlk@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270106T193000Z
+DTSTART:20270106T193000Z
+DTEND:20270106T213000Z
+SUMMARY:⚽ Crystal Palace – Chelsea
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
