@@ -6,39 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:premier-league|crystal-palace|ipswich-town-(2-3)|6a8282rm7t6to8ljqtcuch3ro5h5iz4ergdvjgrb@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260912T140000Z
-DTSTART:20260912T140000Z
-DTEND:20260912T160000Z
-SUMMARY:⚽ Crystal Palace – Ipswich Town (2-3)
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|liverpool|fulham|awr2cprq32bhimaxtqxerz8slujmfskgomuas8sw@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260912T140000Z
-DTSTART:20260912T140000Z
-DTEND:20260912T160000Z
-SUMMARY:⚽ Liverpool – Fulham
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|levante|fc-barcelona|cudzmi1cm6lepow1ksyybq9v7rasfii73gr80lxo@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260913T141500Z
-DTSTART:20260913T141500Z
-DTEND:20260913T161500Z
-SUMMARY:⚽ Levante – FC Barcelona
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:israeli-premier-league|shmona|m.-haifa|gp51cvbjhgllr5hl6bv0qkbqv4aese52rdk0tr2x@maak-agenda.nl@football-calendar-agent
+UID:israeli-premier-league|shmona|m.-haifa-(0-4)|gp51cvbjhgllr5hl6bv0qkbqv4aese52rdk0tr2x@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260914T170000Z
 DTSTART:20260914T170000Z
 DTEND:20260914T190000Z
-SUMMARY:⚽ Shmona – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 Sport 4\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+SUMMARY:⚽ Shmona – M. Haifa (0-4)
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -83,7 +56,7 @@ DTSTAMP:20260917T190000Z
 DTSTART:20260917T190000Z
 DTEND:20260917T210000Z
 SUMMARY:⚽ Crystal Palace – Lech Poznań [EL]
-DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+DESCRIPTION:UEFA Europa League\\n📺 Sport 3\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -92,7 +65,7 @@ DTSTAMP:20260919T113000Z
 DTSTART:20260919T113000Z
 DTEND:20260919T133000Z
 SUMMARY:⚽ Millwall FC – West Ham United
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+DESCRIPTION:EFL Championship\\n📺 Sport 4\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -101,7 +74,7 @@ DTSTAMP:20260919T170000Z
 DTSTART:20260919T170000Z
 DTEND:20260919T190000Z
 SUMMARY:⚽ M. Haifa – Ironi Tiberias
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+DESCRIPTION:Israeli Premier League\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -119,7 +92,7 @@ DTSTAMP:20260920T130000Z
 DTSTART:20260920T130000Z
 DTEND:20260920T150000Z
 SUMMARY:⚽ Leeds United – Crystal Palace
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+DESCRIPTION:Premier League\\n📺 Sport 3\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
