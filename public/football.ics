@@ -6,47 +6,20 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:israeli-premier-league|shmona|m.-haifa-(0-4)|gp51cvbjhgllr5hl6bv0qkbqv4aese52rdk0tr2x@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260914T170000Z
-DTSTART:20260914T170000Z
-DTEND:20260914T190000Z
-SUMMARY:⚽ Shmona – M. Haifa (0-4)
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:league-cup|west-ham-united|fulham-[lc]|oyjfpg4tllhhnapjhvzdyywvirxduxyypobqhfqg@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260915T184500Z
-DTSTART:20260915T184500Z
-DTEND:20260915T204500Z
-SUMMARY:⚽ West Ham United – Fulham [LC]
-DESCRIPTION:League Cup\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:league-cup|liverpool|tottenham-hotspur-[lc]|xubx4uesamlejsi43qmkm1braeqd623ebofzdtqi@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260915T190000Z
-DTSTART:20260915T190000Z
-DTEND:20260915T210000Z
-SUMMARY:⚽ Liverpool – Tottenham Hotspur [LC]
-DESCRIPTION:League Cup\\n📺 Sport 4\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:uefa-europa-league|beer-sheva|dinamo-zagreb-[el]|tsn5kzkqbl54mwopsmqvs0kyxvejpstbbcuckfqi@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260916T190000Z
 DTSTART:20260916T190000Z
 DTEND:20260916T210000Z
 SUMMARY:⚽ Beer Sheva – Dinamo Zagreb [EL]
-DESCRIPTION:UEFA Europa League\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
+DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:la-liga|fc-barcelona|racing-de-santander|odqjvcpjb1ziorpm70bwqowzsdaasjnreadwvnjt@maak-agenda.nl@football-calendar-agent
+UID:la-liga|fc-barcelona|racing-de-santander-(7-2)|odqjvcpjb1ziorpm70bwqowzsdaasjnreadwvnjt@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260916T193000Z
 DTSTART:20260916T193000Z
 DTEND:20260916T213000Z
-SUMMARY:⚽ FC Barcelona – Racing de Santander
+SUMMARY:⚽ FC Barcelona – Racing de Santander (7-2)
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
