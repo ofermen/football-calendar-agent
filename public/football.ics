@@ -6,33 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:uefa-europa-league|beer-sheva|dinamo-zagreb-[el]|tsn5kzkqbl54mwopsmqvs0kyxvejpstbbcuckfqi@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260916T190000Z
-DTSTART:20260916T190000Z
-DTEND:20260916T210000Z
-SUMMARY:⚽ Beer Sheva – Dinamo Zagreb [EL]
-DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|fc-barcelona|racing-de-santander-(7-2)|odqjvcpjb1ziorpm70bwqowzsdaasjnreadwvnjt@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260916T193000Z
-DTSTART:20260916T193000Z
-DTEND:20260916T213000Z
-SUMMARY:⚽ FC Barcelona – Racing de Santander (7-2)
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-europa-league|crystal-palace|lech-poznań-[el]|0ko2elgr9t85gjzapibp8to0rnuhemcroqkax5ld@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260917T190000Z
-DTSTART:20260917T190000Z
-DTEND:20260917T210000Z
-SUMMARY:⚽ Crystal Palace – Lech Poznań [EL]
-DESCRIPTION:UEFA Europa League\\n📺 Sport 3\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|millwall-fc|west-ham-united|zvga6lg3g4cvcijkfrtykujs08witit8zsuxipfz@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260919T113000Z
 DTSTART:20260919T113000Z
@@ -195,21 +168,21 @@ DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ic
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:la-liga|real-betis|fc-barcelona|ioy1nzhq8bflhfpnbwloysbjsenhyjmpzx2ou2j2@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261017T163000Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:⚽ Real Betis – FC Barcelona
+DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:premier-league|brighton-&-hove-albion-fc|crystal-palace|0zjrtkkh3ygge3ijq50olgpwkpfyhglnckbbp9vh@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261018T130000Z
 DTSTART:20261018T130000Z
 DTEND:20261018T150000Z
 SUMMARY:⚽ Brighton & Hove Albion FC – Crystal Palace
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|real-betis|fc-barcelona|ioy1nzhq8bflhfpnbwloysbjsenhyjmpzx2ou2j2@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261018T180000Z
-DTSTART:20261018T180000Z
-DTEND:20261018T200000Z
-SUMMARY:⚽ Real Betis – FC Barcelona
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -291,6 +264,24 @@ DTSTART:20261026T183000Z
 DTEND:20261026T203000Z
 SUMMARY:⚽ M. Haifa – Beer Sheva
 DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:league-cup|fulham|crystal-palace-[lc]|zdv9kz2svd5bxq1nyecsmv3ro8ytglkrnykdxjov@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261027T100000Z
+DTSTART:20261027T100000Z
+DTEND:20261027T120000Z
+SUMMARY:⚽ Fulham – Crystal Palace [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:league-cup|liverpool|chelsea-[lc]|vi05tn0qoccakgzbwityvkfpoqbrf97i7toqumuw@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261027T100000Z
+DTSTART:20261027T100000Z
+DTEND:20261027T120000Z
+SUMMARY:⚽ Liverpool – Chelsea [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1105,9 +1096,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga|fc-barcelona|atlético-madrid|dz7dudzyqetl76nvvavsqr9nkuuubspidnnvuaft@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270202T000000Z
-DTSTART:20270202T000000Z
-DTEND:20270202T020000Z
+DTSTAMP:20270202T190000Z
+DTSTART:20270202T190000Z
+DTEND:20270202T210000Z
 SUMMARY:⚽ FC Barcelona – Atlético Madrid
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
