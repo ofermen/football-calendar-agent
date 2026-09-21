@@ -6,39 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:efl-championship|millwall-fc|west-ham-united|zvga6lg3g4cvcijkfrtykujs08witit8zsuxipfz@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260919T113000Z
-DTSTART:20260919T113000Z
-DTEND:20260919T133000Z
-SUMMARY:⚽ Millwall FC – West Ham United
-DESCRIPTION:EFL Championship\\n📺 Sport 4\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:israeli-premier-league|m.-haifa|ironi-tiberias|8otka0jvqourumwcg4xieudgentunql6jxul2qqz@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260919T170000Z
-DTSTART:20260919T170000Z
-DTEND:20260919T190000Z
-SUMMARY:⚽ M. Haifa – Ironi Tiberias
-DESCRIPTION:Israeli Premier League\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|sevilla-fc|fc-barcelona|8z4zccp2wz0hrofjt2732guewsiljpflwlmgtnyy@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260919T190000Z
-DTSTART:20260919T190000Z
-DTEND:20260919T210000Z
-SUMMARY:⚽ Sevilla FC – FC Barcelona
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|leeds-united|crystal-palace|qnmlwstdwhtytlfnp56wiothnewkkd7zpdjpdwxg@maak-agenda.nl@football-calendar-agent
+UID:premier-league|leeds-united|crystal-palace-(0-0)|qnmlwstdwhtytlfnp56wiothnewkkd7zpdjpdwxg@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20260920T130000Z
 DTSTART:20260920T130000Z
 DTEND:20260920T150000Z
-SUMMARY:⚽ Leeds United – Crystal Palace
-DESCRIPTION:Premier League\\n📺 Sport 3\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+SUMMARY:⚽ Leeds United – Crystal Palace (0-0)
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -268,18 +241,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:league-cup|fulham|crystal-palace-[lc]|zdv9kz2svd5bxq1nyecsmv3ro8ytglkrnykdxjov@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261027T100000Z
-DTSTART:20261027T100000Z
-DTEND:20261027T120000Z
+DTSTAMP:20261028T194500Z
+DTSTART:20261028T194500Z
+DTEND:20261028T214500Z
 SUMMARY:⚽ Fulham – Crystal Palace [LC]
 DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:league-cup|liverpool|chelsea-[lc]|vi05tn0qoccakgzbwityvkfpoqbrf97i7toqumuw@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261027T100000Z
-DTSTART:20261027T100000Z
-DTEND:20261027T120000Z
+DTSTAMP:20261028T200000Z
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
 SUMMARY:⚽ Liverpool – Chelsea [LC]
 DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED

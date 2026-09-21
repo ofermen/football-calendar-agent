@@ -1,11 +1,11 @@
 === Crystal Palace ===
-20/09/2026 16:00 | Leeds United - Crystal Palace | Premier League | 📺 Sport 3
+20/09/2026 16:00 | Leeds United - Crystal Palace (0-0) | Premier League | 📺 טרם פורסם
 11/10/2026 16:00 | Crystal Palace - Nottingham Forest | Premier League | 📺 טרם פורסם
 15/10/2026 19:45 | Olympique Lyonnais - Crystal Palace [EL] | UEFA Europa League | 📺 טרם פורסם
 18/10/2026 16:00 | Brighton & Hove Albion FC - Crystal Palace | Premier League | 📺 טרם פורסם
 22/10/2026 22:00 | Beşiktaş - Crystal Palace [EL] | UEFA Europa League | 📺 טרם פורסם
 25/10/2026 16:00 | Crystal Palace - Newcastle United | Premier League | 📺 טרם פורסם
-27/10/2026 12:00 | Fulham - Crystal Palace [LC] | League Cup | 📺 טרם פורסם
+28/10/2026 21:45 | Fulham - Crystal Palace [LC] | League Cup | 📺 טרם פורסם
 31/10/2026 19:30 | Tottenham Hotspur - Crystal Palace | Premier League | 📺 טרם פורסם
 05/11/2026 19:45 | Crystal Palace - 1899 Hoffenheim [EL] | UEFA Europa League | 📺 טרם פורסם
 07/11/2026 17:00 | Crystal Palace - Liverpool | Premier League | 📺 טרם פורסם
@@ -44,7 +44,6 @@
 Total: 42
 
 === FC Barcelona ===
-19/09/2026 22:00 | Sevilla FC - FC Barcelona | La Liga | 📺 טרם פורסם
 10/10/2026 19:30 | FC Barcelona - Getafe | La Liga | 📺 טרם פורסם
 13/10/2026 22:00 | Galatasaray - FC Barcelona [CL] | UEFA Champions League | 📺 טרם פורסם
 17/10/2026 19:30 | Real Betis - FC Barcelona | La Liga | 📺 טרם פורסם
@@ -84,7 +83,7 @@ Total: 42
 16/05/2027 21:00 | Real Sociedad - FC Barcelona | La Liga | 📺 טרם פורסם
 23/05/2027 21:00 | FC Barcelona - Malaga | La Liga | 📺 טרם פורסם
 30/05/2027 21:00 | Getafe - FC Barcelona | La Liga | 📺 טרם פורסם
-Total: 40
+Total: 39
 
 === Hapoel Be'er Sheva ===
 15/10/2026 19:45 | AZ - Beer Sheva [EL] | UEFA Europa League | 📺 טרם פורסם
@@ -103,7 +102,7 @@ Total: 7
 17/10/2026 17:00 | Brentford FC - Liverpool | Premier League | 📺 טרם פורסם
 20/10/2026 22:00 | Liverpool - Villarreal [CL] | UEFA Champions League | 📺 טרם פורסם
 25/10/2026 16:00 | Liverpool - Brighton & Hove Albion FC | Premier League | 📺 טרם פורסם
-27/10/2026 12:00 | Liverpool - Chelsea [LC] | League Cup | 📺 טרם פורסם
+28/10/2026 22:00 | Liverpool - Chelsea [LC] | League Cup | 📺 טרם פורסם
 01/11/2026 18:30 | Liverpool - Arsenal | Premier League | 📺 טרם פורסם
 04/11/2026 19:45 | Fenerbahçe - Liverpool [CL] | UEFA Champions League | 📺 טרם פורסם
 07/11/2026 17:00 | Crystal Palace - Liverpool | Premier League | 📺 טרם פורסם
@@ -142,7 +141,6 @@ Total: 7
 Total: 42
 
 === Maccabi Haifa ===
-19/09/2026 20:00 | M. Haifa - Ironi Tiberias | Israeli Premier League | 📺 Sport 2
 12/10/2026 20:30 | Hapoel Katamon - M. Haifa | Israeli Premier League | 📺 טרם פורסם
 17/10/2026 19:30 | Maccabi Petah Tikva - M. Haifa | Israeli Premier League | 📺 טרם פורסם
 26/10/2026 20:30 | M. Haifa - Beer Sheva | Israeli Premier League | 📺 טרם פורסם
@@ -164,10 +162,9 @@ Total: 42
 20/02/2027 02:00 | M. Haifa - Bnei Sakhnin | Israeli Premier League | 📺 טרם פורסם
 27/02/2027 02:00 | Jerusalem - M. Haifa | Israeli Premier League | 📺 טרם פורסם
 06/03/2027 02:00 | M. Haifa - H. Haifa | Israeli Premier League | 📺 טרם פורסם
-Total: 22
+Total: 21
 
 === West Ham United ===
-19/09/2026 14:30 | Millwall FC - West Ham United | EFL Championship | 📺 Sport 4
 09/10/2026 22:00 | West Ham United - Queens Park Rangers | EFL Championship | 📺 טרם פורסם
 14/10/2026 22:00 | Lincoln City FC - West Ham United | EFL Championship | 📺 טרם פורסם
 17/10/2026 17:00 | Swansea City - West Ham United | EFL Championship | 📺 טרם פורסם
@@ -206,4 +203,4 @@ Total: 22
 20/04/2027 21:45 | Wolverhampton Wanderers - West Ham United | EFL Championship | 📺 טרם פורסם
 24/04/2027 17:00 | Middlesbrough - West Ham United | EFL Championship | 📺 טרם פורסם
 01/05/2027 14:30 | West Ham United - Portsmouth FC | EFL Championship | 📺 טרם פורסם
-Total: 39
+Total: 38
