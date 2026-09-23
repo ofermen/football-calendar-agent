@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:premier-league|leeds-united|crystal-palace-(0-0)|qnmlwstdwhtytlfnp56wiothnewkkd7zpdjpdwxg@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260920T130000Z
-DTSTART:20260920T130000Z
-DTEND:20260920T150000Z
-SUMMARY:⚽ Leeds United – Crystal Palace (0-0)
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|afc-bournemouth|liverpool|bmxauara1zd950lih4rvxyulfxiprul7ze2bbpei@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20260920T130000Z
-DTSTART:20260920T130000Z
-DTEND:20260920T150000Z
-SUMMARY:⚽ AFC Bournemouth – Liverpool
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|west-ham-united|queens-park-rangers|kxn00athpyh9lqt357eyzcmodzpsrugydgq99pk5@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261009T190000Z
 DTSTART:20261009T190000Z
@@ -223,9 +205,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga|fc-barcelona|real-madrid|hxhyt6knyew2muk9vpwymyu7b6tgngsqt5qqcxya@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261025T180000Z
-DTSTART:20261025T180000Z
-DTEND:20261025T200000Z
+DTSTAMP:20261025T200000Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
 SUMMARY:⚽ FC Barcelona – Real Madrid
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
@@ -357,21 +339,21 @@ DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixt
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league|crystal-palace|liverpool|wvxb3ia6qdoo1iooyyniczlaa8wptrh0tgfnoyuh@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261107T150000Z
-DTSTART:20261107T150000Z
-DTEND:20261107T170000Z
-SUMMARY:⚽ Crystal Palace – Liverpool
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:israeli-premier-league|m.-haifa|netanya|cp4lwgeilqnq0ptyjg9r1uophfa7ooz14b8ztldm@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261107T153000Z
 DTSTART:20261107T153000Z
 DTEND:20261107T173000Z
 SUMMARY:⚽ M. Haifa – Netanya
 DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league|crystal-palace|liverpool|wvxb3ia6qdoo1iooyyniczlaa8wptrh0tgfnoyuh@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261108T140000Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:⚽ Crystal Palace – Liverpool
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -403,9 +385,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:premier-league|liverpool|manchester-united|q697essd1hu6cqombi5zf28uoqn1hr3ddxt5ayx1@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261121T150000Z
-DTSTART:20261121T150000Z
-DTEND:20261121T170000Z
+DTSTAMP:20261122T163000Z
+DTSTART:20261122T163000Z
+DTEND:20261122T183000Z
 SUMMARY:⚽ Liverpool – Manchester United
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
@@ -483,21 +465,21 @@ DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixt
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league|crystal-palace|hull-city|8n4zkzfp6ax7lt0fsgdhubhouamegxc41fb8gzfu@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261128T150000Z
-DTSTART:20261128T150000Z
-DTEND:20261128T170000Z
-SUMMARY:⚽ Crystal Palace – Hull City
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+UID:premier-league|everton|liverpool|skw7xeg7lnj8bpzkytqsvtcapf5qji2ifimyz4by@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261129T120000Z
+DTSTART:20261129T120000Z
+DTEND:20261129T140000Z
+SUMMARY:⚽ Everton – Liverpool
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league|everton|liverpool|skw7xeg7lnj8bpzkytqsvtcapf5qji2ifimyz4by@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261128T150000Z
-DTSTART:20261128T150000Z
-DTEND:20261128T170000Z
-SUMMARY:⚽ Everton – Liverpool
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+UID:premier-league|crystal-palace|hull-city|8n4zkzfp6ax7lt0fsgdhubhouamegxc41fb8gzfu@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261129T140500Z
+DTSTART:20261129T140500Z
+DTEND:20261129T160500Z
+SUMMARY:⚽ Crystal Palace – Hull City
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
