@@ -483,11 +483,11 @@ DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:la-liga|deportivo-la-coruna|fc-barcelona|mq1a8ywqfu4frpo88tlpdir7axcovjv9du9c587g@maak-agenda.nl@football-calendar-agent
+UID:la-liga|rc-deportivo|fc-barcelona|mq1a8ywqfu4frpo88tlpdir7axcovjv9du9c587g@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261129T200000Z
 DTSTART:20261129T200000Z
 DTEND:20261129T220000Z
-SUMMARY:⚽ Deportivo la Coruna – FC Barcelona
+SUMMARY:⚽ RC Deportivo – FC Barcelona
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
@@ -1329,11 +1329,11 @@ DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:la-liga|fc-barcelona|deportivo-la-coruna|vbxrkvedcqammy7mnf6gx9v6mmethqnpz9gromwc@maak-agenda.nl@football-calendar-agent
+UID:la-liga|fc-barcelona|rc-deportivo|vbxrkvedcqammy7mnf6gx9v6mmethqnpz9gromwc@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20270314T180000Z
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-SUMMARY:⚽ FC Barcelona – Deportivo la Coruna
+SUMMARY:⚽ FC Barcelona – RC Deportivo
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT

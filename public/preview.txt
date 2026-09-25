@@ -53,7 +53,7 @@ Total: 41
 08/11/2026 22:00 | Atlético Madrid - FC Barcelona | La Liga | 📺 טרם פורסם
 22/11/2026 22:00 | FC Barcelona - Villarreal | La Liga | 📺 טרם פורסם
 25/11/2026 19:45 | Sabah - FC Barcelona [CL] | UEFA Champions League | 📺 טרם פורסם
-29/11/2026 22:00 | Deportivo la Coruna - FC Barcelona | La Liga | 📺 טרם פורסם
+29/11/2026 22:00 | RC Deportivo - FC Barcelona | La Liga | 📺 טרם פורסם
 06/12/2026 22:00 | FC Barcelona - Celta de Vigo | La Liga | 📺 טרם פורסם
 08/12/2026 22:00 | FC Barcelona - Manchester City [CL] | UEFA Champions League | 📺 טרם פורסם
 13/12/2026 22:00 | Malaga - FC Barcelona | La Liga | 📺 טרם פורסם
@@ -71,7 +71,7 @@ Total: 41
 21/02/2027 22:00 | FC Barcelona - Levante | La Liga | 📺 טרם פורסם
 28/02/2027 22:00 | Athletic de Bilbao - FC Barcelona | La Liga | 📺 טרם פורסם
 07/03/2027 22:00 | FC Barcelona - Real Betis | La Liga | 📺 טרם פורסם
-14/03/2027 20:00 | FC Barcelona - Deportivo la Coruna | La Liga | 📺 טרם פורסם
+14/03/2027 20:00 | FC Barcelona - RC Deportivo | La Liga | 📺 טרם פורסם
 21/03/2027 20:00 | Rayo Vallecano - FC Barcelona | La Liga | 📺 טרם פורסם
 04/04/2027 21:00 | FC Barcelona - Sevilla FC | La Liga | 📺 טרם פורסם
 11/04/2027 21:00 | Racing de Santander - FC Barcelona | La Liga | 📺 טרם פורסם
