@@ -1,5 +1,4 @@
 === Crystal Palace ===
-03/10/2026 14:30 | Crystal Palace - Bristol City FC | Premier League | 📺 טרם פורסם
 11/10/2026 16:00 | Crystal Palace - Nottingham Forest | Premier League | 📺 טרם פורסם
 15/10/2026 19:45 | Olympique Lyonnais - Crystal Palace [EL] | UEFA Europa League | 📺 טרם פורסם
 18/10/2026 16:00 | Brighton & Hove Albion FC - Crystal Palace | Premier League | 📺 טרם פורסם
@@ -41,7 +40,7 @@
 15/05/2027 17:00 | Crystal Palace - Brighton & Hove Albion FC | Premier League | 📺 טרם פורסם
 23/05/2027 17:00 | Newcastle United - Crystal Palace | Premier League | 📺 טרם פורסם
 30/05/2027 18:00 | Crystal Palace - Leeds United | Premier League | 📺 טרם פורסם
-Total: 42
+Total: 41
 
 === FC Barcelona ===
 10/10/2026 19:30 | FC Barcelona - Getafe | La Liga | 📺 טרם פורסם
@@ -49,7 +48,7 @@ Total: 42
 17/10/2026 19:30 | Real Betis - FC Barcelona | La Liga | 📺 טרם פורסם
 20/10/2026 22:00 | Paris Saint-Germain - FC Barcelona [CL] | UEFA Champions League | 📺 טרם פורסם
 25/10/2026 22:00 | FC Barcelona - Real Madrid | La Liga | 📺 טרם פורסם
-01/11/2026 22:00 | FC Barcelona - Deportivo Alavés | La Liga | 📺 טרם פורסם
+31/10/2026 22:00 | FC Barcelona - Deportivo Alavés | La Liga | 📺 טרם פורסם
 03/11/2026 22:00 | FC Barcelona - Aston Villa [CL] | UEFA Champions League | 📺 טרם פורסם
 08/11/2026 22:00 | Atlético Madrid - FC Barcelona | La Liga | 📺 טרם פורסם
 22/11/2026 22:00 | FC Barcelona - Villarreal | La Liga | 📺 טרם פורסם

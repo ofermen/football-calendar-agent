@@ -6,15 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:premier-league|crystal-palace|bristol-city-fc|e1wvrnpe6upqn0bf5mvgyahbn8c9iu4jubptthk0@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261003T113000Z
-DTSTART:20261003T113000Z
-DTEND:20261003T133000Z
-SUMMARY:⚽ Crystal Palace – Bristol City FC
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|west-ham-united|queens-park-rangers|kxn00athpyh9lqt357eyzcmodzpsrugydgq99pk5@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261009T190000Z
 DTSTART:20261009T190000Z
@@ -267,21 +258,21 @@ DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:la-liga|fc-barcelona|deportivo-alavés|q57fymtamuzaivrribbm4hdnliiut9ze7aeqkvwq@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261031T200000Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:⚽ FC Barcelona – Deportivo Alavés
+DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:premier-league|liverpool|arsenal|m8bhkejgk38pjekmslp1yt4fbqwcctuc8syozrzm@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261101T163000Z
 DTSTART:20261101T163000Z
 DTEND:20261101T183000Z
 SUMMARY:⚽ Liverpool – Arsenal
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|fc-barcelona|deportivo-alavés|q57fymtamuzaivrribbm4hdnliiut9ze7aeqkvwq@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261101T200000Z
-DTSTART:20261101T200000Z
-DTEND:20261101T220000Z
-SUMMARY:⚽ FC Barcelona – Deportivo Alavés
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
