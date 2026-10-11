@@ -43,7 +43,7 @@
 Total: 41
 
 === FC Barcelona ===
-10/10/2026 19:30 | FC Barcelona - Getafe | La Liga | 📺 טרם פורסם
+10/10/2026 19:30 | FC Barcelona - Getafe (3-0) | La Liga | 📺 טרם פורסם
 13/10/2026 22:00 | Galatasaray - FC Barcelona [CL] | UEFA Champions League | 📺 טרם פורסם
 17/10/2026 19:30 | Real Betis - FC Barcelona | La Liga | 📺 טרם פורסם
 20/10/2026 22:00 | Paris Saint-Germain - FC Barcelona [CL] | UEFA Champions League | 📺 טרם פורסם
@@ -139,7 +139,7 @@ Total: 7
 Total: 41
 
 === Maccabi Haifa ===
-12/10/2026 20:30 | Hapoel Katamon - M. Haifa | Israeli Premier League | 📺 טרם פורסם
+12/10/2026 20:30 | Hapoel Katamon - M. Haifa | Israeli Premier League | 📺 5Sport
 17/10/2026 19:30 | Maccabi Petah Tikva - M. Haifa | Israeli Premier League | 📺 טרם פורסם
 26/10/2026 20:30 | M. Haifa - Beer Sheva | Israeli Premier League | 📺 טרם פורסם
 02/11/2026 20:30 | H. Tel Aviv - M. Haifa | Israeli Premier League | 📺 טרם פורסם
@@ -163,7 +163,6 @@ Total: 41
 Total: 21
 
 === West Ham United ===
-09/10/2026 22:00 | West Ham United - Queens Park Rangers | EFL Championship | 📺 Sport 1
 14/10/2026 22:00 | Lincoln City FC - West Ham United | EFL Championship | 📺 Sport 4
 17/10/2026 17:00 | Swansea City - West Ham United | EFL Championship | 📺 טרם פורסם
 24/10/2026 17:00 | West Ham United - Southampton | EFL Championship | 📺 טרם פורסם
@@ -201,4 +200,4 @@ Total: 21
 20/04/2027 21:45 | Wolverhampton Wanderers - West Ham United | EFL Championship | 📺 טרם פורסם
 24/04/2027 17:00 | Middlesbrough - West Ham United | EFL Championship | 📺 טרם פורסם
 01/05/2027 14:30 | West Ham United - Portsmouth FC | EFL Championship | 📺 טרם פורסם
-Total: 38
+Total: 37

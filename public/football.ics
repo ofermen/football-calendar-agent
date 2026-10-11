@@ -6,20 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:efl-championship|west-ham-united|queens-park-rangers|kxn00athpyh9lqt357eyzcmodzpsrugydgq99pk5@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261009T190000Z
-DTSTART:20261009T190000Z
-DTEND:20261009T210000Z
-SUMMARY:⚽ West Ham United – Queens Park Rangers
-DESCRIPTION:EFL Championship\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|fc-barcelona|getafe|dqb5ecgi1tnrg1soulxanff52zkjjvn0puvkdhxy@maak-agenda.nl@football-calendar-agent
+UID:la-liga|fc-barcelona|getafe-(3-0)|dqb5ecgi1tnrg1soulxanff52zkjjvn0puvkdhxy@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261010T163000Z
 DTSTART:20261010T163000Z
 DTEND:20261010T183000Z
-SUMMARY:⚽ FC Barcelona – Getafe
+SUMMARY:⚽ FC Barcelona – Getafe (3-0)
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
@@ -47,7 +38,7 @@ DTSTAMP:20261012T173000Z
 DTSTART:20261012T173000Z
 DTEND:20261012T193000Z
 SUMMARY:⚽ Hapoel Katamon – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+DESCRIPTION:Israeli Premier League\\n📺 5Sport\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
