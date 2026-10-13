@@ -6,39 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:la-liga|fc-barcelona|getafe-(3-0)|dqb5ecgi1tnrg1soulxanff52zkjjvn0puvkdhxy@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261010T163000Z
-DTSTART:20261010T163000Z
-DTEND:20261010T183000Z
-SUMMARY:⚽ FC Barcelona – Getafe (3-0)
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|crystal-palace|nottingham-forest|wkdef4yk4kjcgnpgbqdnzjmnzrfip5lw5tq9vdfo@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261011T130000Z
-DTSTART:20261011T130000Z
-DTEND:20261011T150000Z
-SUMMARY:⚽ Crystal Palace – Nottingham Forest
-DESCRIPTION:Premier League\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|liverpool|manchester-city|bsvcq7d6qkfbjklrve6ddu1f37iutgspeofgginb@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261011T153000Z
-DTSTART:20261011T153000Z
-DTEND:20261011T173000Z
-SUMMARY:⚽ Liverpool – Manchester City
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:israeli-premier-league|hapoel-katamon|m.-haifa|ancpsz6p80r2ihsb1o19dqy09nkqmqax2jwkhi7e@maak-agenda.nl@football-calendar-agent
+UID:israeli-premier-league|hapoel-katamon|m.-haifa-(1-4)|ancpsz6p80r2ihsb1o19dqy09nkqmqax2jwkhi7e@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261012T173000Z
 DTSTART:20261012T173000Z
 DTEND:20261012T193000Z
-SUMMARY:⚽ Hapoel Katamon – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 5Sport\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+SUMMARY:⚽ Hapoel Katamon – M. Haifa (1-4)
+DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -110,7 +83,7 @@ DTSTAMP:20261017T163000Z
 DTSTART:20261017T163000Z
 DTEND:20261017T183000Z
 SUMMARY:⚽ Maccabi Petah Tikva – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
+DESCRIPTION:Israeli Premier League\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
