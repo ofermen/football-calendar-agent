@@ -6,39 +6,21 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:israeli-premier-league|hapoel-katamon|m.-haifa-(1-4)|ancpsz6p80r2ihsb1o19dqy09nkqmqax2jwkhi7e@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261012T173000Z
-DTSTART:20261012T173000Z
-DTEND:20261012T193000Z
-SUMMARY:⚽ Hapoel Katamon – M. Haifa (1-4)
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-champions-league|galatasaray|fc-barcelona-[cl]|qvincfxxqx78139bwl44nmcfe0qwjorwc4selnu7@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261013T190000Z
-DTSTART:20261013T190000Z
-DTEND:20261013T210000Z
-SUMMARY:⚽ Galatasaray – FC Barcelona [CL]
-DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-champions-league|lask-linz|liverpool-[cl]|co9kbuxo3sor9kfz7zz9oamy9ery7lbxbpnesefo@maak-agenda.nl@football-calendar-agent
+UID:premier-league|lask-linz|liverpool-[cl]|co9kbuxo3sor9kfz7zz9oamy9ery7lbxbpnesefo@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261014T164500Z
 DTSTART:20261014T164500Z
 DTEND:20261014T184500Z
 SUMMARY:⚽ LASK Linz – Liverpool [CL]
-DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:efl-championship|lincoln-city-fc|west-ham-united|oiudkuqdjpsmdyxvpdfg1n1kfe1mpu85k2myvokn@maak-agenda.nl@football-calendar-agent
+UID:efl-championship|lincoln-city-fc|west-ham-united-(0-6)|oiudkuqdjpsmdyxvpdfg1n1kfe1mpu85k2myvokn@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261014T190000Z
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
-SUMMARY:⚽ Lincoln City FC – West Ham United
-DESCRIPTION:EFL Championship\\n📺 Sport 4\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+SUMMARY:⚽ Lincoln City FC – West Ham United (0-6)
+DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -178,9 +160,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:israeli-premier-league|m.-haifa|beer-sheva|anqrsf9ho80quqk6dlod506darwltwlwpbb8h5gm@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261026T183000Z
-DTSTART:20261026T183000Z
-DTEND:20261026T203000Z
+DTSTAMP:20261026T170000Z
+DTSTART:20261026T170000Z
+DTEND:20261026T190000Z
 SUMMARY:⚽ M. Haifa – Beer Sheva
 DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
