@@ -6,42 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:premier-league|lask-linz|liverpool-[cl]|co9kbuxo3sor9kfz7zz9oamy9ery7lbxbpnesefo@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261014T164500Z
-DTSTART:20261014T164500Z
-DTEND:20261014T184500Z
-SUMMARY:⚽ LASK Linz – Liverpool [CL]
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:efl-championship|lincoln-city-fc|west-ham-united-(0-6)|oiudkuqdjpsmdyxvpdfg1n1kfe1mpu85k2myvokn@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261014T190000Z
-DTSTART:20261014T190000Z
-DTEND:20261014T210000Z
-SUMMARY:⚽ Lincoln City FC – West Ham United (0-6)
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-europa-league|az|beer-sheva-[el]|quwehodto7dln21qtwmdwxjdtefdfo76n6sumqlg@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261015T164500Z
-DTSTART:20261015T164500Z
-DTEND:20261015T184500Z
-SUMMARY:⚽ AZ – Beer Sheva [EL]
-DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-europa-league|olympique-lyonnais|crystal-palace-[el]|zezxrfjtdb5tqaimjncc9aba9eqdqxoybidch1gf@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261015T164500Z
-DTSTART:20261015T164500Z
-DTEND:20261015T184500Z
-SUMMARY:⚽ Olympique Lyonnais – Crystal Palace [EL]
-DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|swansea-city|west-ham-united|kqnizgh72mexuuqszr333foptogatsnmfv8xcov6@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261017T140000Z
 DTSTART:20261017T140000Z
@@ -83,7 +47,7 @@ DTSTAMP:20261018T130000Z
 DTSTART:20261018T130000Z
 DTEND:20261018T150000Z
 SUMMARY:⚽ Brighton & Hove Albion FC – Crystal Palace
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+DESCRIPTION:Premier League\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
