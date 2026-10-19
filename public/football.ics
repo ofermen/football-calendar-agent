@@ -6,48 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:efl-championship|swansea-city|west-ham-united|kqnizgh72mexuuqszr333foptogatsnmfv8xcov6@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261017T140000Z
-DTSTART:20261017T140000Z
-DTEND:20261017T160000Z
-SUMMARY:⚽ Swansea City – West Ham United
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|brentford-fc|liverpool|dgpvf0klq3csj2rlprefvj94kwqtmdnhq9k8mtxd@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261017T140000Z
-DTSTART:20261017T140000Z
-DTEND:20261017T160000Z
-SUMMARY:⚽ Brentford FC – Liverpool
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:israeli-premier-league|maccabi-petah-tikva|m.-haifa|nylefnbepir2kdigimjxxz5nbeqnmflmcootlelv@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261017T163000Z
-DTSTART:20261017T163000Z
-DTEND:20261017T183000Z
-SUMMARY:⚽ Maccabi Petah Tikva – M. Haifa
-DESCRIPTION:Israeli Premier League\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|real-betis|fc-barcelona|ioy1nzhq8bflhfpnbwloysbjsenhyjmpzx2ou2j2@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261017T163000Z
-DTSTART:20261017T163000Z
-DTEND:20261017T183000Z
-SUMMARY:⚽ Real Betis – FC Barcelona
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|brighton-&-hove-albion-fc|crystal-palace|0zjrtkkh3ygge3ijq50olgpwkpfyhglnckbbp9vh@maak-agenda.nl@football-calendar-agent
+UID:premier-league|brighton-&-hove-albion-fc|crystal-palace-(5-0)|0zjrtkkh3ygge3ijq50olgpwkpfyhglnckbbp9vh@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261018T130000Z
 DTSTART:20261018T130000Z
 DTEND:20261018T150000Z
-SUMMARY:⚽ Brighton & Hove Albion FC – Crystal Palace
-DESCRIPTION:Premier League\\n📺 Sport 2\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+SUMMARY:⚽ Brighton & Hove Albion FC – Crystal Palace (5-0)
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
