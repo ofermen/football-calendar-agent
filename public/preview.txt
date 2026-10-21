@@ -1,5 +1,4 @@
 === Crystal Palace ===
-18/10/2026 16:00 | Brighton & Hove Albion FC - Crystal Palace (5-0) | Premier League | 📺 טרם פורסם
 22/10/2026 22:00 | Beşiktaş - Crystal Palace [EL] | UEFA Europa League | 📺 טרם פורסם
 25/10/2026 16:00 | Crystal Palace - Newcastle United | Premier League | 📺 טרם פורסם
 28/10/2026 21:45 | Fulham - Crystal Palace [LC] | League Cup | 📺 טרם פורסם
@@ -9,11 +8,11 @@
 21/11/2026 17:00 | Coventry City - Crystal Palace | Premier League | 📺 טרם פורסם
 26/11/2026 22:00 | Crystal Palace - Real Sociedad [EL] | UEFA Europa League | 📺 טרם פורסם
 29/11/2026 16:05 | Crystal Palace - Hull City | Premier League | 📺 טרם פורסם
-02/12/2026 22:00 | Chelsea - Crystal Palace | Premier League | 📺 טרם פורסם
+02/12/2026 21:30 | Chelsea - Crystal Palace | Premier League | 📺 טרם פורסם
 05/12/2026 17:00 | Aston Villa - Crystal Palace | Premier League | 📺 טרם פורסם
 10/12/2026 19:45 | Jagiellonia Białystok - Crystal Palace [EL] | UEFA Europa League | 📺 טרם פורסם
-12/12/2026 17:00 | Crystal Palace - Manchester United | Premier League | 📺 טרם פורסם
-19/12/2026 17:00 | Sunderland - Crystal Palace | Premier League | 📺 טרם פורסם
+13/12/2026 21:00 | Crystal Palace - Manchester United | Premier League | 📺 טרם פורסם
+20/12/2026 16:00 | Sunderland - Crystal Palace | Premier League | 📺 טרם פורסם
 27/12/2026 21:00 | Crystal Palace - Arsenal | Premier League | 📺 טרם פורסם
 30/12/2026 21:30 | Crystal Palace - AFC Bournemouth | Premier League | 📺 טרם פורסם
 02/01/2027 17:00 | Brentford FC - Crystal Palace | Premier League | 📺 טרם פורסם
@@ -38,7 +37,7 @@
 15/05/2027 17:00 | Crystal Palace - Brighton & Hove Albion FC | Premier League | 📺 טרם פורסם
 23/05/2027 17:00 | Newcastle United - Crystal Palace | Premier League | 📺 טרם פורסם
 30/05/2027 18:00 | Crystal Palace - Leeds United | Premier League | 📺 טרם פורסם
-Total: 39
+Total: 38
 
 === FC Barcelona ===
 20/10/2026 22:00 | Paris Saint-Germain - FC Barcelona [CL] | UEFA Champions League | 📺 טרם פורסם
