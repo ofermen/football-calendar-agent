@@ -6,38 +6,20 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:uefa-champions-league|liverpool|villarreal-[cl]|zo8svalidu2z9sxqrmswi3cn3gn2umlqliuw1ez2@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261020T190000Z
-DTSTART:20261020T190000Z
-DTEND:20261020T210000Z
-SUMMARY:⚽ Liverpool – Villarreal [CL]
-DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-champions-league|paris-saint-germain|fc-barcelona-[cl]|kydlxyousp6dghjx6hsarnax8mjyfp0j5wzwwsvw@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261020T190000Z
-DTSTART:20261020T190000Z
-DTEND:20261020T210000Z
-SUMMARY:⚽ Paris Saint-Germain – FC Barcelona [CL]
-DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-europa-league|union-saint-gilloise|beer-sheva-[el]|x3uk9ypkvjeiq4b4c4z5mx6u5psondhoiv7puezl@maak-agenda.nl@football-calendar-agent
+UID:uefa-europa-league|union-saint-gilloise|beer-sheva-[el]-(4-0)|x3uk9ypkvjeiq4b4c4z5mx6u5psondhoiv7puezl@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261022T164500Z
 DTSTART:20261022T164500Z
 DTEND:20261022T184500Z
-SUMMARY:⚽ Union Saint-Gilloise – Beer Sheva [EL]
+SUMMARY:⚽ Union Saint-Gilloise – Beer Sheva [EL] (4-0)
 DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:uefa-europa-league|beşiktaş|crystal-palace-[el]|tpc0p5brhopaxnwwfkoqag2oxowlt1niit5ppspv@maak-agenda.nl@football-calendar-agent
+UID:uefa-europa-league|beşiktaş|crystal-palace-[el]-(2-2)|tpc0p5brhopaxnwwfkoqag2oxowlt1niit5ppspv@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261022T190000Z
 DTSTART:20261022T190000Z
 DTEND:20261022T210000Z
-SUMMARY:⚽ Beşiktaş – Crystal Palace [EL]
+SUMMARY:⚽ Beşiktaş – Crystal Palace [EL] (2-2)
 DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
@@ -101,7 +83,7 @@ DTSTAMP:20261028T200000Z
 DTSTART:20261028T200000Z
 DTEND:20261028T220000Z
 SUMMARY:⚽ Liverpool – Chelsea [LC]
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+DESCRIPTION:League Cup\\n📺 Sport 4\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -249,21 +231,21 @@ DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:la-liga|fc-barcelona|villarreal|ekrjck4uzabs0pyeymo6bcv3auazsuevc3daigzm@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261122T130000Z
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
+SUMMARY:⚽ FC Barcelona – Villarreal
+DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:premier-league|liverpool|manchester-united|q697essd1hu6cqombi5zf28uoqn1hr3ddxt5ayx1@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261122T163000Z
 DTSTART:20261122T163000Z
 DTEND:20261122T183000Z
 SUMMARY:⚽ Liverpool – Manchester United
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|fc-barcelona|villarreal|ekrjck4uzabs0pyeymo6bcv3auazsuevc3daigzm@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261122T200000Z
-DTSTART:20261122T200000Z
-DTEND:20261122T220000Z
-SUMMARY:⚽ FC Barcelona – Villarreal
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -376,9 +358,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:premier-league|liverpool|sunderland|bszrybg1jftmaagcscv4vj50gxpiitn6yw0gtxer@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261202T200000Z
-DTSTART:20261202T200000Z
-DTEND:20261202T220000Z
+DTSTAMP:20261202T193000Z
+DTSTART:20261202T193000Z
+DTEND:20261202T213000Z
 SUMMARY:⚽ Liverpool – Sunderland
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
@@ -393,21 +375,21 @@ DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixt
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:premier-league|chelsea|liverpool|gfyc0pkxugqllgalj2y5qztpzcugx1rhts6goy7z@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261205T123000Z
+DTSTART:20261205T123000Z
+DTEND:20261205T143000Z
+SUMMARY:⚽ Chelsea – Liverpool
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:premier-league|aston-villa|crystal-palace|vrrambtrmidckdaisd7yjgkushpfeuva4cdqtgvd@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261205T150000Z
 DTSTART:20261205T150000Z
 DTEND:20261205T170000Z
 SUMMARY:⚽ Aston Villa – Crystal Palace
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|chelsea|liverpool|gfyc0pkxugqllgalj2y5qztpzcugx1rhts6goy7z@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261205T150000Z
-DTSTART:20261205T150000Z
-DTEND:20261205T170000Z
-SUMMARY:⚽ Chelsea – Liverpool
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -529,9 +511,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:premier-league|liverpool|tottenham-hotspur|o7y6mmummsr8dr2anwuoi9xj3xrgdnksjk4j33lc@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261219T150000Z
-DTSTART:20261219T150000Z
-DTEND:20261219T170000Z
+DTSTAMP:20261219T173000Z
+DTSTART:20261219T173000Z
+DTEND:20261219T193000Z
 SUMMARY:⚽ Liverpool – Tottenham Hotspur
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED

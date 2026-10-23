@@ -1,5 +1,5 @@
 === Crystal Palace ===
-22/10/2026 22:00 | Beşiktaş - Crystal Palace [EL] | UEFA Europa League | 📺 טרם פורסם
+22/10/2026 22:00 | Beşiktaş - Crystal Palace [EL] (2-2) | UEFA Europa League | 📺 טרם פורסם
 25/10/2026 16:00 | Crystal Palace - Newcastle United | Premier League | 📺 טרם פורסם
 28/10/2026 21:45 | Fulham - Crystal Palace [LC] | League Cup | 📺 טרם פורסם
 31/10/2026 19:30 | Tottenham Hotspur - Crystal Palace | Premier League | 📺 טרם פורסם
@@ -40,12 +40,11 @@
 Total: 38
 
 === FC Barcelona ===
-20/10/2026 22:00 | Paris Saint-Germain - FC Barcelona [CL] | UEFA Champions League | 📺 טרם פורסם
 25/10/2026 22:00 | FC Barcelona - Real Madrid | La Liga | 📺 טרם פורסם
 31/10/2026 22:00 | FC Barcelona - Deportivo Alavés | La Liga | 📺 טרם פורסם
 03/11/2026 22:00 | FC Barcelona - Aston Villa [CL] | UEFA Champions League | 📺 טרם פורסם
 08/11/2026 22:00 | Atlético Madrid - FC Barcelona | La Liga | 📺 טרם פורסם
-22/11/2026 22:00 | FC Barcelona - Villarreal | La Liga | 📺 טרם פורסם
+22/11/2026 15:00 | FC Barcelona - Villarreal | La Liga | 📺 טרם פורסם
 25/11/2026 19:45 | Sabah - FC Barcelona [CL] | UEFA Champions League | 📺 טרם פורסם
 29/11/2026 22:00 | RC Deportivo - FC Barcelona | La Liga | 📺 טרם פורסם
 06/12/2026 22:00 | FC Barcelona - Celta de Vigo | La Liga | 📺 טרם פורסם
@@ -76,10 +75,10 @@ Total: 38
 16/05/2027 21:00 | Real Sociedad - FC Barcelona | La Liga | 📺 טרם פורסם
 23/05/2027 21:00 | FC Barcelona - Malaga | La Liga | 📺 טרם פורסם
 30/05/2027 21:00 | Getafe - FC Barcelona | La Liga | 📺 טרם פורסם
-Total: 36
+Total: 35
 
 === Hapoel Be'er Sheva ===
-22/10/2026 19:45 | Union Saint-Gilloise - Beer Sheva [EL] | UEFA Europa League | 📺 טרם פורסם
+22/10/2026 19:45 | Union Saint-Gilloise - Beer Sheva [EL] (4-0) | UEFA Europa League | 📺 טרם פורסם
 05/11/2026 22:00 | Beer Sheva - OFI [EL] | UEFA Europa League | 📺 טרם פורסם
 26/11/2026 19:45 | Beşiktaş - Beer Sheva [EL] | UEFA Europa League | 📺 טרם פורסם
 10/12/2026 19:45 | Beer Sheva - Juventus [EL] | UEFA Europa League | 📺 טרם פורסם
@@ -88,20 +87,19 @@ Total: 36
 Total: 6
 
 === Liverpool ===
-20/10/2026 22:00 | Liverpool - Villarreal [CL] | UEFA Champions League | 📺 טרם פורסם
 25/10/2026 16:00 | Liverpool - Brighton & Hove Albion FC | Premier League | 📺 טרם פורסם
-28/10/2026 22:00 | Liverpool - Chelsea [LC] | League Cup | 📺 טרם פורסם
+28/10/2026 22:00 | Liverpool - Chelsea [LC] | League Cup | 📺 Sport 4
 01/11/2026 18:30 | Liverpool - Arsenal | Premier League | 📺 טרם פורסם
 04/11/2026 19:45 | Fenerbahçe - Liverpool [CL] | UEFA Champions League | 📺 טרם פורסם
 08/11/2026 16:00 | Crystal Palace - Liverpool | Premier League | 📺 טרם פורסם
 22/11/2026 18:30 | Liverpool - Manchester United | Premier League | 📺 טרם פורסם
 25/11/2026 22:00 | Club Brugge KV - Liverpool [CL] | UEFA Champions League | 📺 טרם פורסם
 29/11/2026 14:00 | Everton - Liverpool | Premier League | 📺 טרם פורסם
-02/12/2026 22:00 | Liverpool - Sunderland | Premier League | 📺 טרם פורסם
-05/12/2026 17:00 | Chelsea - Liverpool | Premier League | 📺 טרם פורסם
+02/12/2026 21:30 | Liverpool - Sunderland | Premier League | 📺 טרם פורסם
+05/12/2026 14:30 | Chelsea - Liverpool | Premier League | 📺 טרם פורסם
 09/12/2026 22:00 | Liverpool - FC Porto [CL] | UEFA Champions League | 📺 טרם פורסם
 12/12/2026 17:00 | Liverpool - Leeds United | Premier League | 📺 טרם פורסם
-19/12/2026 17:00 | Liverpool - Tottenham Hotspur | Premier League | 📺 טרם פורסם
+19/12/2026 19:30 | Liverpool - Tottenham Hotspur | Premier League | 📺 טרם פורסם
 26/12/2026 19:30 | Hull City - Liverpool | Premier League | 📺 טרם פורסם
 30/12/2026 22:15 | Aston Villa - Liverpool | Premier League | 📺 טרם פורסם
 02/01/2027 17:00 | Liverpool - Coventry City | Premier League | 📺 טרם פורסם
@@ -126,7 +124,7 @@ Total: 6
 15/05/2027 17:00 | Liverpool - Brentford FC | Premier League | 📺 טרם פורסם
 23/05/2027 17:00 | Brighton & Hove Albion FC - Liverpool | Premier League | 📺 טרם פורסם
 30/05/2027 18:00 | Liverpool - AFC Bournemouth | Premier League | 📺 טרם פורסם
-Total: 38
+Total: 37
 
 === Maccabi Haifa ===
 26/10/2026 19:00 | M. Haifa - Beer Sheva | Israeli Premier League | 📺 טרם פורסם
