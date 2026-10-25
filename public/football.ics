@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:uefa-europa-league|union-saint-gilloise|beer-sheva-[el]-(4-0)|x3uk9ypkvjeiq4b4c4z5mx6u5psondhoiv7puezl@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261022T164500Z
-DTSTART:20261022T164500Z
-DTEND:20261022T184500Z
-SUMMARY:⚽ Union Saint-Gilloise – Beer Sheva [EL] (4-0)
-DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-europa-league|beşiktaş|crystal-palace-[el]-(2-2)|tpc0p5brhopaxnwwfkoqag2oxowlt1niit5ppspv@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261022T190000Z
-DTSTART:20261022T190000Z
-DTEND:20261022T210000Z
-SUMMARY:⚽ Beşiktaş – Crystal Palace [EL] (2-2)
-DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|west-ham-united|southampton|lllsvmnqkkhp2ln7f281cakupnkhgbzt92vsh3tm@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261024T140000Z
 DTSTART:20261024T140000Z

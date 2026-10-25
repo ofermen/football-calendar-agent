@@ -1,5 +1,4 @@
 === Crystal Palace ===
-22/10/2026 22:00 | Beşiktaş - Crystal Palace [EL] (2-2) | UEFA Europa League | 📺 טרם פורסם
 25/10/2026 16:00 | Crystal Palace - Newcastle United | Premier League | 📺 טרם פורסם
 28/10/2026 21:45 | Fulham - Crystal Palace [LC] | League Cup | 📺 טרם פורסם
 31/10/2026 19:30 | Tottenham Hotspur - Crystal Palace | Premier League | 📺 טרם פורסם
@@ -37,7 +36,7 @@
 15/05/2027 17:00 | Crystal Palace - Brighton & Hove Albion FC | Premier League | 📺 טרם פורסם
 23/05/2027 17:00 | Newcastle United - Crystal Palace | Premier League | 📺 טרם פורסם
 30/05/2027 18:00 | Crystal Palace - Leeds United | Premier League | 📺 טרם פורסם
-Total: 38
+Total: 37
 
 === FC Barcelona ===
 25/10/2026 22:00 | FC Barcelona - Real Madrid | La Liga | 📺 טרם פורסם
@@ -78,13 +77,12 @@ Total: 38
 Total: 35
 
 === Hapoel Be'er Sheva ===
-22/10/2026 19:45 | Union Saint-Gilloise - Beer Sheva [EL] (4-0) | UEFA Europa League | 📺 טרם פורסם
 05/11/2026 22:00 | Beer Sheva - OFI [EL] | UEFA Europa League | 📺 טרם פורסם
 26/11/2026 19:45 | Beşiktaş - Beer Sheva [EL] | UEFA Europa League | 📺 טרם פורסם
 10/12/2026 19:45 | Beer Sheva - Juventus [EL] | UEFA Europa League | 📺 טרם פורסם
 21/01/2027 22:00 | Beer Sheva - Celta de Vigo [EL] | UEFA Europa League | 📺 טרם פורסם
 28/01/2027 22:00 | AFC Bournemouth - Beer Sheva [EL] | UEFA Europa League | 📺 טרם פורסם
-Total: 6
+Total: 5
 
 === Liverpool ===
 25/10/2026 16:00 | Liverpool - Brighton & Hove Albion FC | Premier League | 📺 טרם פורסם
