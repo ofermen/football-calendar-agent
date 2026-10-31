@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:league-cup|fulham|crystal-palace-[lc]-(0-1)|zdv9kz2svd5bxq1nyecsmv3ro8ytglkrnykdxjov@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261028T194500Z
-DTSTART:20261028T194500Z
-DTEND:20261028T214500Z
-SUMMARY:⚽ Fulham – Crystal Palace [LC] (0-1)
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:league-cup|liverpool|chelsea-[lc]-(1-1)|vi05tn0qoccakgzbwityvkfpoqbrf97i7toqumuw@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261028T200000Z
-DTSTART:20261028T200000Z
-DTEND:20261028T220000Z
-SUMMARY:⚽ Liverpool – Chelsea [LC] (1-1)
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|west-ham-united|west-bromwich-albion|ek1pgnq2s0bbrz92uugrgpmbkgy738ulztbbyzrv@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261031T150000Z
 DTSTART:20261031T150000Z
@@ -435,6 +417,24 @@ DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
 SUMMARY:⚽ Malaga – FC Barcelona
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:league-cup|crystal-palace|sunderland-[lc]|qetjooayz1z9dau6bkbaycwgxkdi0ljunqusnv4f@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261215T100000Z
+DTSTART:20261215T100000Z
+DTEND:20261215T120000Z
+SUMMARY:⚽ Crystal Palace – Sunderland [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:league-cup|liverpool|afc-bournemouth-[lc]|zsflavqhifhchwby1whp4lcgwyad7d4cpa5cuodi@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261215T100000Z
+DTSTART:20261215T100000Z
+DTEND:20261215T120000Z
+SUMMARY:⚽ Liverpool – AFC Bournemouth [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
