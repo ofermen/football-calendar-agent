@@ -15,20 +15,20 @@ DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixt
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league|tottenham-hotspur|crystal-palace|t67vsbcozmocfzoa7ug5xfbpb600nnkgbbiwky2o@maak-agenda.nl@football-calendar-agent
+UID:premier-league|tottenham-hotspur|crystal-palace-(2-0)|t67vsbcozmocfzoa7ug5xfbpb600nnkgbbiwky2o@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261031T173000Z
 DTSTART:20261031T173000Z
 DTEND:20261031T193000Z
-SUMMARY:⚽ Tottenham Hotspur – Crystal Palace
-DESCRIPTION:Premier League\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+SUMMARY:⚽ Tottenham Hotspur – Crystal Palace (2-0)
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:la-liga|fc-barcelona|deportivo-alavés|q57fymtamuzaivrribbm4hdnliiut9ze7aeqkvwq@maak-agenda.nl@football-calendar-agent
+UID:la-liga|fc-barcelona|deportivo-alavés-(6-1)|q57fymtamuzaivrribbm4hdnliiut9ze7aeqkvwq@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261031T200000Z
 DTSTART:20261031T200000Z
 DTEND:20261031T220000Z
-SUMMARY:⚽ FC Barcelona – Deportivo Alavés
+SUMMARY:⚽ FC Barcelona – Deportivo Alavés (6-1)
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
