@@ -6,47 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:efl-championship|west-ham-united|west-bromwich-albion|ek1pgnq2s0bbrz92uugrgpmbkgy738ulztbbyzrv@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261031T150000Z
-DTSTART:20261031T150000Z
-DTEND:20261031T170000Z
-SUMMARY:⚽ West Ham United – West Bromwich Albion
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|tottenham-hotspur|crystal-palace-(2-0)|t67vsbcozmocfzoa7ug5xfbpb600nnkgbbiwky2o@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261031T173000Z
-DTSTART:20261031T173000Z
-DTEND:20261031T193000Z
-SUMMARY:⚽ Tottenham Hotspur – Crystal Palace (2-0)
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|fc-barcelona|deportivo-alavés-(6-1)|q57fymtamuzaivrribbm4hdnliiut9ze7aeqkvwq@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261031T200000Z
-DTSTART:20261031T200000Z
-DTEND:20261031T220000Z
-SUMMARY:⚽ FC Barcelona – Deportivo Alavés (6-1)
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|liverpool|arsenal|m8bhkejgk38pjekmslp1yt4fbqwcctuc8syozrzm@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261101T163000Z
-DTSTART:20261101T163000Z
-DTEND:20261101T183000Z
-SUMMARY:⚽ Liverpool – Arsenal
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:israeli-premier-league|h.-tel-aviv|m.-haifa|pkzyicvyfzwv5l63tz3qxse0xoyq4fvkawlbwtu7@maak-agenda.nl@football-calendar-agent
+UID:israeli-premier-league|h.-tel-aviv|m.-haifa-(2-1)|pkzyicvyfzwv5l63tz3qxse0xoyq4fvkawlbwtu7@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261102T183000Z
 DTSTART:20261102T183000Z
 DTEND:20261102T203000Z
-SUMMARY:⚽ H. Tel Aviv – M. Haifa
+SUMMARY:⚽ H. Tel Aviv – M. Haifa (2-1)
 DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
 END:VEVENT
@@ -92,7 +56,7 @@ DTSTAMP:20261105T200000Z
 DTSTART:20261105T200000Z
 DTEND:20261105T220000Z
 SUMMARY:⚽ Beer Sheva – OFI [EL]
-DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
+DESCRIPTION:UEFA Europa League\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
