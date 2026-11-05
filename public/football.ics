@@ -6,30 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:israeli-premier-league|h.-tel-aviv|m.-haifa-(2-1)|pkzyicvyfzwv5l63tz3qxse0xoyq4fvkawlbwtu7@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261102T183000Z
-DTSTART:20261102T183000Z
-DTEND:20261102T203000Z
-SUMMARY:⚽ H. Tel Aviv – M. Haifa (2-1)
-DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-champions-league|fc-barcelona|aston-villa-[cl]|ljkza3kcobgqigxojkzgkvyb7rxgsnzjy6up5xue@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261103T200000Z
-DTSTART:20261103T200000Z
-DTEND:20261103T220000Z
-SUMMARY:⚽ FC Barcelona – Aston Villa [CL]
-DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-champions-league|fenerbahçe|liverpool-[cl]|lpyr1aatgfemazxb1orfvvaxrrjlaoldinhsws0i@maak-agenda.nl@football-calendar-agent
+UID:premier-league|fenerbahçe|liverpool-[cl]|lpyr1aatgfemazxb1orfvvaxrrjlaoldinhsws0i@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261104T174500Z
 DTSTART:20261104T174500Z
 DTEND:20261104T194500Z
 SUMMARY:⚽ Fenerbahçe – Liverpool [CL]
-DESCRIPTION:UEFA Champions League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -384,21 +366,21 @@ DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:league-cup|crystal-palace|sunderland-[lc]|qetjooayz1z9dau6bkbaycwgxkdi0ljunqusnv4f@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261215T100000Z
-DTSTART:20261215T100000Z
-DTEND:20261215T120000Z
-SUMMARY:⚽ Crystal Palace – Sunderland [LC]
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:league-cup|liverpool|afc-bournemouth-[lc]|zsflavqhifhchwby1whp4lcgwyad7d4cpa5cuodi@maak-agenda.nl@football-calendar-agent
+UID:premier-league|liverpool|afc-bournemouth-[lc]|zsflavqhifhchwby1whp4lcgwyad7d4cpa5cuodi@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261215T100000Z
 DTSTART:20261215T100000Z
 DTEND:20261215T120000Z
 SUMMARY:⚽ Liverpool – AFC Bournemouth [LC]
-DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:league-cup|crystal-palace|sunderland-[lc]|qetjooayz1z9dau6bkbaycwgxkdi0ljunqusnv4f@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261216T193000Z
+DTSTART:20261216T193000Z
+DTEND:20261216T213000Z
+SUMMARY:⚽ Crystal Palace – Sunderland [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
