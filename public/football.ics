@@ -6,42 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:premier-league|fenerbahçe|liverpool-[cl]|lpyr1aatgfemazxb1orfvvaxrrjlaoldinhsws0i@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261104T174500Z
-DTSTART:20261104T174500Z
-DTEND:20261104T194500Z
-SUMMARY:⚽ Fenerbahçe – Liverpool [CL]
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:efl-championship|cardiff-city|west-ham-united|peizfd1qlaazfcgfitivtnmseemrqavaprin9py2@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261104T194500Z
-DTSTART:20261104T194500Z
-DTEND:20261104T214500Z
-SUMMARY:⚽ Cardiff City – West Ham United
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-europa-league|crystal-palace|1899-hoffenheim-[el]|xpwhwpfayesfhndw6iru2ocmfnxzlpnk4d49segh@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261105T174500Z
-DTSTART:20261105T174500Z
-DTEND:20261105T194500Z
-SUMMARY:⚽ Crystal Palace – 1899 Hoffenheim [EL]
-DESCRIPTION:UEFA Europa League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:uefa-europa-league|beer-sheva|ofi-[el]|4u9ea9xtekht7sivm02e6y4n8rugvr1gbzlw7xrc@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261105T200000Z
-DTSTART:20261105T200000Z
-DTEND:20261105T220000Z
-SUMMARY:⚽ Beer Sheva – OFI [EL]
-DESCRIPTION:UEFA Europa League\\n📺 Sport 1\\nSource: https://ics.fixtur.es/v2/beer-sheva.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|blackburn-rovers|west-ham-united|j0q2btt4woblmjasmrga5gbkgswiybjoc3qjd3w6@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261107T150000Z
 DTSTART:20261107T150000Z
@@ -196,9 +160,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga|rc-deportivo|fc-barcelona|mq1a8ywqfu4frpo88tlpdir7axcovjv9du9c587g@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261129T200000Z
-DTSTART:20261129T200000Z
-DTEND:20261129T220000Z
+DTSTAMP:20261129T151500Z
+DTSTART:20261129T151500Z
+DTEND:20261129T171500Z
 SUMMARY:⚽ RC Deportivo – FC Barcelona
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
@@ -228,6 +192,15 @@ DTSTART:20261202T193000Z
 DTEND:20261202T213000Z
 SUMMARY:⚽ Liverpool – Sunderland
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:la-liga|fc-barcelona|atlético-madrid|qb7pyj811uzmsq9nuczvztdqnb1bocrpegj54dhh@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261202T203000Z
+DTSTART:20261202T203000Z
+DTEND:20261202T223000Z
+SUMMARY:⚽ FC Barcelona – Atlético Madrid
+DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -366,21 +339,21 @@ DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league|liverpool|afc-bournemouth-[lc]|zsflavqhifhchwby1whp4lcgwyad7d4cpa5cuodi@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261215T100000Z
-DTSTART:20261215T100000Z
-DTEND:20261215T120000Z
-SUMMARY:⚽ Liverpool – AFC Bournemouth [LC]
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:league-cup|crystal-palace|sunderland-[lc]|qetjooayz1z9dau6bkbaycwgxkdi0ljunqusnv4f@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261216T193000Z
 DTSTART:20261216T193000Z
 DTEND:20261216T213000Z
 SUMMARY:⚽ Crystal Palace – Sunderland [LC]
 DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:league-cup|liverpool|afc-bournemouth-[lc]|zsflavqhifhchwby1whp4lcgwyad7d4cpa5cuodi@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20261216T200000Z
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+SUMMARY:⚽ Liverpool – AFC Bournemouth [LC]
+DESCRIPTION:League Cup\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -457,9 +430,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:israeli-premier-league|hapoel-petah-tikva|m.-haifa|zrtiiflled3k9o0xkx7jlzwir85tnjcqzi0thn4k@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261229T000000Z
-DTSTART:20261229T000000Z
-DTEND:20261229T020000Z
+DTSTAMP:20261229T174500Z
+DTSTART:20261229T174500Z
+DTEND:20261229T194500Z
 SUMMARY:⚽ Hapoel Petah Tikva – M. Haifa
 DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
@@ -502,9 +475,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:israeli-premier-league|m.-haifa|shmona|z6jaxe8hxjrpq7xa3wnty84gh1crmlawf9cw2elh@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270102T000000Z
-DTSTART:20270102T000000Z
-DTEND:20270102T020000Z
+DTSTAMP:20270102T130000Z
+DTSTART:20270102T130000Z
+DTEND:20270102T150000Z
 SUMMARY:⚽ M. Haifa – Shmona
 DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
 STATUS:CONFIRMED
@@ -573,21 +546,21 @@ DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:efl-championship|west-ham-united|swansea-city|ofi83cg7fhm9ijrsvyfpy10fyziqbw8vhzwxl8ux@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270115T200000Z
+DTSTART:20270115T200000Z
+DTEND:20270115T220000Z
+SUMMARY:⚽ West Ham United – Swansea City
+DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:israeli-premier-league|m.-haifa|hapoel-katamon|lxtxjbr6i17xbrpvttynbqkfzeq8jtubvhhp9vzo@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20270116T000000Z
 DTSTART:20270116T000000Z
 DTEND:20270116T020000Z
 SUMMARY:⚽ M. Haifa – Hapoel Katamon
 DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/m-haifa.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:efl-championship|west-ham-united|swansea-city|ofi83cg7fhm9ijrsvyfpy10fyziqbw8vhzwxl8ux@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270116T150000Z
-DTSTART:20270116T150000Z
-DTEND:20270116T170000Z
-SUMMARY:⚽ West Ham United – Swansea City
-DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -655,9 +628,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:efl-championship|west-bromwich-albion|west-ham-united|bpoprsfe34td1ss7ntugj822otjy4wiqz0xxdqkd@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270123T150000Z
-DTSTART:20270123T150000Z
-DTEND:20270123T170000Z
+DTSTAMP:20270123T123000Z
+DTSTART:20270123T123000Z
+DTEND:20270123T143000Z
 SUMMARY:⚽ West Bromwich Albion – West Ham United
 DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
 STATUS:CONFIRMED
@@ -825,15 +798,6 @@ DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:la-liga|fc-barcelona|atlético-madrid|qb7pyj811uzmsq9nuczvztdqnb1bocrpegj54dhh@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270207T200000Z
-DTSTART:20270207T200000Z
-DTEND:20270207T220000Z
-SUMMARY:⚽ FC Barcelona – Atlético Madrid
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:premier-league|crystal-palace|brentford-fc|brsanlftcuxgwicpaw7rzq9zbbceg4pjhrbfhkg3@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20270210T200000Z
 DTSTART:20270210T200000Z
@@ -943,9 +907,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:efl-championship|queens-park-rangers|west-ham-united|7cwls61olttolxmj5jtymzzu9ybj9xtgzxffsppz@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270227T150000Z
-DTSTART:20270227T150000Z
-DTEND:20270227T170000Z
+DTSTAMP:20270227T123000Z
+DTSTART:20270227T123000Z
+DTEND:20270227T143000Z
 SUMMARY:⚽ Queens Park Rangers – West Ham United
 DESCRIPTION:EFL Championship\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/west-ham-united.ics
 STATUS:CONFIRMED
