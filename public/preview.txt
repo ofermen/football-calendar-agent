@@ -36,7 +36,7 @@
 Total: 34
 
 === FC Barcelona ===
-08/11/2026 22:00 | Atlético Madrid - FC Barcelona | La Liga | 📺 טרם פורסם
+08/11/2026 22:00 | Atlético Madrid - FC Barcelona (1-2) | La Liga | 📺 טרם פורסם
 22/11/2026 15:00 | FC Barcelona - Villarreal | La Liga | 📺 טרם פורסם
 25/11/2026 19:45 | Sabah - FC Barcelona [CL] | UEFA Champions League | 📺 טרם פורסם
 29/11/2026 17:15 | RC Deportivo - FC Barcelona | La Liga | 📺 טרם פורסם
@@ -115,12 +115,12 @@ Total: 4
 Total: 34
 
 === Maccabi Haifa ===
-07/11/2026 17:30 | M. Haifa - Netanya | Israeli Premier League | 📺 טרם פורסם
 28/11/2026 15:00 | Bnei Sakhnin - M. Haifa | Israeli Premier League | 📺 טרם פורסם
 02/12/2026 20:30 | M. Haifa - Jerusalem | Israeli Premier League | 📺 טרם פורסם
 05/12/2026 19:30 | H. Haifa - M. Haifa | Israeli Premier League | 📺 טרם פורסם
 12/12/2026 17:30 | Hapoel Ramat Gan - M. Haifa | Israeli Premier League | 📺 טרם פורסם
 21/12/2026 20:30 | M. Haifa - M. Tel Aviv | Israeli Premier League | 📺 טרם פורסם
+26/12/2026 17:30 | M. Haifa - Hapoel Ra'anana | Israel State Cup | 📺 טרם פורסם
 29/12/2026 19:45 | Hapoel Petah Tikva - M. Haifa | Israeli Premier League | 📺 טרם פורסם
 02/01/2027 15:00 | M. Haifa - Shmona | Israeli Premier League | 📺 טרם פורסם
 09/01/2027 02:00 | Ironi Tiberias - M. Haifa | Israeli Premier League | 📺 טרם פורסם
@@ -135,7 +135,6 @@ Total: 34
 Total: 17
 
 === West Ham United ===
-07/11/2026 17:00 | Blackburn Rovers - West Ham United | EFL Championship | 📺 טרם פורסם
 21/11/2026 17:00 | West Ham United - Preston North End FC | EFL Championship | 📺 טרם פורסם
 24/11/2026 21:45 | Portsmouth FC - West Ham United | EFL Championship | 📺 טרם פורסם
 28/11/2026 17:00 | West Ham United - Stoke City | EFL Championship | 📺 טרם פורסם
@@ -167,4 +166,4 @@ Total: 17
 20/04/2027 21:45 | Wolverhampton Wanderers - West Ham United | EFL Championship | 📺 טרם פורסם
 24/04/2027 17:00 | Middlesbrough - West Ham United | EFL Championship | 📺 טרם פורסם
 01/05/2027 14:30 | West Ham United - Portsmouth FC | EFL Championship | 📺 טרם פורסם
-Total: 32
+Total: 31
