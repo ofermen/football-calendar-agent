@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Selected Football Matches
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:premier-league|crystal-palace|liverpool|wvxb3ia6qdoo1iooyyniczlaa8wptrh0tgfnoyuh@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261108T140000Z
-DTSTART:20261108T140000Z
-DTEND:20261108T160000Z
-SUMMARY:⚽ Crystal Palace – Liverpool
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:la-liga|atlético-madrid|fc-barcelona-(1-2)|gjaqb1lp4wofd7bmps9zb2gad1p06rvwzapbjexq@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261108T200000Z
-DTSTART:20261108T200000Z
-DTEND:20261108T220000Z
-SUMMARY:⚽ Atlético Madrid – FC Barcelona (1-2)
-DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:efl-championship|west-ham-united|preston-north-end-fc|5htgqdtnsqnpfbgra9vaxppoezbewoi6j9ov3hkt@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20261121T150000Z
 DTSTART:20261121T150000Z

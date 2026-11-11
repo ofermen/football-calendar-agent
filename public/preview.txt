@@ -1,5 +1,4 @@
 === Crystal Palace ===
-08/11/2026 16:00 | Crystal Palace - Liverpool | Premier League | 📺 טרם פורסם
 21/11/2026 17:00 | Coventry City - Crystal Palace | Premier League | 📺 טרם פורסם
 26/11/2026 22:00 | Crystal Palace - Real Sociedad [EL] | UEFA Europa League | 📺 טרם פורסם
 29/11/2026 16:05 | Crystal Palace - Hull City | Premier League | 📺 טרם פורסם
@@ -33,10 +32,9 @@
 15/05/2027 17:00 | Crystal Palace - Brighton & Hove Albion FC | Premier League | 📺 טרם פורסם
 23/05/2027 17:00 | Newcastle United - Crystal Palace | Premier League | 📺 טרם פורסם
 30/05/2027 18:00 | Crystal Palace - Leeds United | Premier League | 📺 טרם פורסם
-Total: 34
+Total: 33
 
 === FC Barcelona ===
-08/11/2026 22:00 | Atlético Madrid - FC Barcelona (1-2) | La Liga | 📺 טרם פורסם
 22/11/2026 15:00 | FC Barcelona - Villarreal | La Liga | 📺 טרם פורסם
 25/11/2026 19:45 | Sabah - FC Barcelona [CL] | UEFA Champions League | 📺 טרם פורסם
 29/11/2026 17:15 | RC Deportivo - FC Barcelona | La Liga | 📺 טרם פורסם
@@ -68,7 +66,7 @@ Total: 34
 16/05/2027 21:00 | Real Sociedad - FC Barcelona | La Liga | 📺 טרם פורסם
 23/05/2027 21:00 | FC Barcelona - Malaga | La Liga | 📺 טרם פורסם
 30/05/2027 21:00 | Getafe - FC Barcelona | La Liga | 📺 טרם פורסם
-Total: 32
+Total: 31
 
 === Hapoel Be'er Sheva ===
 26/11/2026 19:45 | Beşiktaş - Beer Sheva [EL] | UEFA Europa League | 📺 טרם פורסם
@@ -78,7 +76,6 @@ Total: 32
 Total: 4
 
 === Liverpool ===
-08/11/2026 16:00 | Crystal Palace - Liverpool | Premier League | 📺 טרם פורסם
 22/11/2026 18:30 | Liverpool - Manchester United | Premier League | 📺 טרם פורסם
 25/11/2026 22:00 | Club Brugge KV - Liverpool [CL] | UEFA Champions League | 📺 טרם פורסם
 29/11/2026 14:00 | Everton - Liverpool | Premier League | 📺 טרם פורסם
@@ -112,7 +109,7 @@ Total: 4
 15/05/2027 17:00 | Liverpool - Brentford FC | Premier League | 📺 טרם פורסם
 23/05/2027 17:00 | Brighton & Hove Albion FC - Liverpool | Premier League | 📺 טרם פורסם
 30/05/2027 18:00 | Liverpool - AFC Bournemouth | Premier League | 📺 טרם פורסם
-Total: 34
+Total: 33
 
 === Maccabi Haifa ===
 28/11/2026 15:00 | Bnei Sakhnin - M. Haifa | Israeli Premier League | 📺 טרם פורסם
