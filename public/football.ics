@@ -205,9 +205,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga|fc-barcelona|celta-de-vigo|gduvrsp8v2h84fskehnlxyy10w3k5diojffvexcy@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20261206T200000Z
-DTSTART:20261206T200000Z
-DTEND:20261206T220000Z
+DTSTAMP:20261205T200000Z
+DTSTART:20261205T200000Z
+DTEND:20261205T220000Z
 SUMMARY:⚽ FC Barcelona – Celta de Vigo
 DESCRIPTION:La Liga\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/fc-barcelona.ics
 STATUS:CONFIRMED
