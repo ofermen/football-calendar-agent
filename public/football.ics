@@ -610,18 +610,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:premier-league|crystal-palace|tottenham-hotspur|kdvqtug511tolemfj9wtjxmqbckjj2rjrlknhc9x@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270123T150000Z
-DTSTART:20270123T150000Z
-DTEND:20270123T170000Z
+DTSTAMP:20270124T140000Z
+DTSTART:20270124T140000Z
+DTEND:20270124T160000Z
 SUMMARY:⚽ Crystal Palace – Tottenham Hotspur
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:premier-league|manchester-united|liverpool|fxfpwe5bq0iwxpvv2gon7mdsylpdksxnnlql8ozz@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270123T150000Z
-DTSTART:20270123T150000Z
-DTEND:20270123T170000Z
+DTSTAMP:20270124T163000Z
+DTSTART:20270124T163000Z
+DTEND:20270124T183000Z
 SUMMARY:⚽ Manchester United – Liverpool
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
@@ -690,6 +690,15 @@ DESCRIPTION:Israeli Premier League\\n📺 טרם פורסם\\nSource: https://ic
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:premier-league|liverpool|everton|xvyscac1fxjitnirbivm85twzhlwvw8ssxhxsodd@maak-agenda.nl@football-calendar-agent
+DTSTAMP:20270130T123000Z
+DTSTART:20270130T123000Z
+DTEND:20270130T143000Z
+SUMMARY:⚽ Liverpool – Everton
+DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:efl-championship|west-ham-united|blackburn-rovers|l20995nsvvwjrhcc8fefkaaldho9a3icjohqyptr@maak-agenda.nl@football-calendar-agent
 DTSTAMP:20270130T150000Z
 DTSTART:20270130T150000Z
@@ -700,20 +709,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:premier-league|hull-city|crystal-palace|wtqvhurvu1yyebij0qihaln7zumq6vnez57moemu@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270130T150000Z
-DTSTART:20270130T150000Z
-DTEND:20270130T170000Z
+DTSTAMP:20270131T140000Z
+DTSTART:20270131T140000Z
+DTEND:20270131T160000Z
 SUMMARY:⚽ Hull City – Crystal Palace
 DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/crystal-palace.ics
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:premier-league|liverpool|everton|xvyscac1fxjitnirbivm85twzhlwvw8ssxhxsodd@maak-agenda.nl@football-calendar-agent
-DTSTAMP:20270130T150000Z
-DTSTART:20270130T150000Z
-DTEND:20270130T170000Z
-SUMMARY:⚽ Liverpool – Everton
-DESCRIPTION:Premier League\\n📺 טרם פורסם\\nSource: https://ics.fixtur.es/v2/liverpool.ics
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
